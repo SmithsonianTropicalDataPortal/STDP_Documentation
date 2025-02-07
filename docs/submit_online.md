@@ -1,3 +1,19 @@
+- [How to Submit Data with Online Form in the STDP](#how-to-submit-data-with-online-form-in-the-stdp)
+  - [Preferred Browsers](#preferred-browsers)
+  - [Access the Data Submission Web Form](#access-the-data-submission-web-form)
+  - [Instructions to Create a New Dataset/Data Package](#instructions-to-create-a-new-datasetdata-package)
+      - [To review the expectations for content in sections 1-5, refer to our Package Level Metadata Guide.](#to-review-the-expectations-for-content-in-sections-1-5-refer-to-our-package-level-metadata-guide)
+  - [Sections](#sections)
+      - [**Overview Tab**](#overview-tab)
+      - [**People Tab**](#people-tab)
+      - [**Dates Tab**](#dates-tab)
+      - [**Locations Tab**](#locations-tab)
+      - [**Methods Tab**](#methods-tab)
+  - [Save the Dataset](#save-the-dataset)
+    - [View your submission](#view-your-submission)
+    - [Important Details to Note](#important-details-to-note)
+  - [Instructions to Edit an Existing Dataset](#instructions-to-edit-an-existing-dataset)
+
 # How to Submit Data with Online Form in the STDP
 
 This comprehensive tutorial will guide you through the process of creating and submitting a private dataset to the Smithsonian Tropical Research Data Repository.
@@ -45,25 +61,27 @@ Once you click on the "Sign in with ORCID" button, the system will redirect you 
 ![FIGURE 4: Section to add files](../images/Section%20to%20add%20files.png)
 <p align="center">Figure 4: Section to add files</p>
 
-### To review the expectations for content in sections 1-5, refer to our Package Level Metadata Guide.
+#### To review the expectations for content in sections 1-5, refer to our Package Level Metadata Guide.
 
-#### Overview Tab
+## Sections
+
+#### **Overview Tab**
 ![FIGURE 5: Overview Section](../images/Overview.png)
 <p align="center">Figure 5: Overview Section</p>
 
-#### People Tab
+#### **People Tab**
 ![INSERT FIGURE 6: People Section](../images/People.png)
 <p align="center">Figure 6: People Section</p>
 
-#### Dates Tab
+#### **Dates Tab**
 ![INSERT FIGURE 7: Dates Section](../images/Dates.png)
 <p align="center">Figure 7: Dates Section</p>
 
-#### Locations Tab
+#### **Locations Tab**
 ![INSERT FIGURE 8: Locations Section](../images/Locations.png)
 <p align="center">Figure 8: Locations Section</p>
 
-#### Methods Tab
+#### **Methods Tab**
 ![INSERT FIGURE 9: Methods Section](../images/Methods.png)
 <p align="center">Figure 9: Methods Section</p>
 
