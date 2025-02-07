@@ -16,11 +16,13 @@ These instructions assume you have been given access to upload data by a Smithso
 
 **Click the link to the data submission web form: [https://smithsonian.dataone.org](https://smithsonian.dataone.org/submit)**
 
-This link will take you to a sign in screen where you can use your ORCID credentials to sign in.
+This link will take you to a sign in screen where you can use your ORCID credentials to sign in. (Figure 1)
 
-[INSERT FIGURE 1: Sign in page for data uploads]
+![FIGURE 1: Sign in page for data uploads](images/Sign_In.png)
 
-[INSERT FIGURE 2: ORCID sign in page for data uploads]
+You will then be prompted to sign in with your ORCID credentials. (Figure 2)
+
+![FIGURE 2: ORCID sign in page for data uploads](images/Sign_In_ORCID.png)
 
 Once you click on the "Sign in with ORCID" button, the system will redirect you to a login screen. You can also link your ORCID with your Institutional account if you prefer to login that way. If you do not have an ORCID account, you can create one at: https://orcid.org/register.
 
