@@ -12,6 +12,7 @@
   - [Save the Dataset](#save-the-dataset)
     - [View your submission](#view-your-submission)
     - [Important Details to Note](#important-details-to-note)
+    - [More Information](#more-information)
   - [Instructions to Edit an Existing Dataset](#instructions-to-edit-an-existing-dataset)
 
 # How to Submit Data with Online Form in the STDP
@@ -70,26 +71,26 @@ Once you click on the "Sign in with ORCID" button, the system will redirect you 
 <p align="center">Figure 5: Overview Section</p>
 
 #### **People Tab**
-![INSERT FIGURE 6: People Section](../images/People.png)
+![ FIGURE 6: People Section](../images/People.png)
 <p align="center">Figure 6: People Section</p>
 
 #### **Dates Tab**
-![INSERT FIGURE 7: Dates Section](../images/Dates.png)
+![ FIGURE 7: Dates Section](../images/Dates.png)
 <p align="center">Figure 7: Dates Section</p>
 
 #### **Locations Tab**
-![INSERT FIGURE 8: Locations Section](../images/Locations.png)
+![ FIGURE 8: Locations Section](../images/Locations.png)
 <p align="center">Figure 8: Locations Section</p>
 
 #### **Methods Tab**
-![INSERT FIGURE 9: Methods Section](../images/Methods.png)
+![ FIGURE 9: Methods Section](../images/Methods.png)
 <p align="center">Figure 9: Methods Section</p>
 
 ## Save the Dataset
 
 When complete, hit the "Save Dataset" button at the bottom of your screen(Figure 10). This will save the record as a private dataset/data package.
 
-![INSERT FIGURE 10: Save Dataset button](../images/Save%20Dataset.png)
+![ FIGURE 10: Save Dataset button](../images/Save%20Dataset.png)
 <p align="center">Figure 10: Save Dataset button</p>
 
 When you save your dataset it will remain private.
@@ -98,16 +99,16 @@ When you save your dataset it will remain private.
 
 If your submission is successful, you will see a confirmation message (Figure 11). Click on the "View your Dataset" button.
 
-![INSERT FIGURE 11: A Successful Save Dataset/Submission Message](../images/View%20your%20Dataset.png)
+![ FIGURE 11: A Successful Save Dataset/Submission Message](../images/View%20your%20Dataset.png)
 
 Your browser will prompt you with a message asking "Leave this page? All of your unsaved changes will be lost."(Figure 12) Don't worry! Since you just clicked the "Save Dataset" button, your changes have been saved. You can safely proceed by clicking "Okay".
 
-![INSERT FIGURE 12: Browser prompt to leave page](../images/are_you_sure.png)
+![ FIGURE 12: Browser prompt to leave page](../images/are_you_sure.png)
 <p align="center">Figure 12: Browser prompt to leave page</p>
 
 Here you can review you data package and verify that your dataset details are entered correctly (Figure 13). If you run into any problems, send an email to BrissetteL@si.edu or WhiteA@si.edu, with the error message you received. Notify the data team BrissetteL@si.edu when you are done with your submission and would like it to be reviewed before making it public.
 
-![INSERT FIGURE 13: Dataset Landing Page](../images/Freshly_Saved.png)
+![ FIGURE 13: Dataset Landing Page](../images/Freshly_Saved.png)
 <p align="center">Figure 13: Dataset Landing Page</p>
 
 ### Important Details to Note
@@ -136,22 +137,37 @@ Here you can review you data package and verify that your dataset details are en
          <img src="../images/cite_doi.png" width="75%">
    <p align="center">Figure 14: Citation with DOI</p>
 
-   **Option 2: Publish with URN:UUID**
+   **Option 2: "Publish" with URN:UUID**
    * To publish your dataset with the system's automatically generated unique identifier (URN:UUID). If edits are made, large or small, and the dataset is saved again, a new URN:UUID will be assigned to the dataset. The citation will be formatted as follows: 
 
       <img src="../images/cite_urn_uuid.png" width="75%">
    <p align="center">Figure 15: Citation with URN:UUID</p>
 
-     * This may be a good option if this dataset it is already published in a different specialty repository or was published years ago and you would like to make the data or metadata searchable and findable within the Smithsonian Tropical Research Data Repository portal. You can also notate any alternative identifiers in the Overview Section metadata. 
+     * This may be a good option if this is already stored where it makes the most sense scientifically (e.g. NCBI, GBIF), or was published in another appropriate data repository before this repository was active (e.g. Zenodo, Dryad), while also contributing to the STDP by at least storing metadata describing your data on STDP. 
+       * *Publishing elsewhere published data will generally enhance the discoverability of your dataset by making it searchable on STDP, along with other Tropical project data stored on STDP.*
+     * You should notate any alternative identifiers (DOIs or URLs) in the [Existing or  Alternative Identifiers](../docs/package_level_meta_reqs.md/#existing-doi--alternative-identifiers) box in the Overview Section.
      
-         To make data public with URN:UUID (Figure 16):
+         To make data **public** with URN:UUID (Figure 16):
          1. Click the edit button on the dataset's landing page
          2. Click each "Share" button
          3. Toggle sharing permissions from "Private" to "Public"
-         4. Save changes 
-   
-         <img src="../images/Make Public.png" width="75%">
-   <p align="center">Figure 16: Public and Private Access Permissions</p>
+         4. Save changes          
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+   <figure style="text-align: center; width: 50%;">
+    <img src="../images/Make Public.png" alt="Image 3" style="width: 100%;">
+    <figcaption>Figure 16: Private Access Permissions</figcaption>
+  </figure>
+   <figure style="margin-right: 10px; text-align: center; width: 50%;">
+    <img src="../images/Public_access.png" alt="Image 1" style="width: 100%;">
+    <figcaption>Figure 17: Public Access Permissions</figcaption>
+  </figure>
+</div>
+
+### More Information 
+
+* Regardless of which option above you choose, all datasets must have **complete metadata on STDP**. It must be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form.  
+* Datasets published under [option 2](../docs/submit_online.md/#important-details-to-note) **may or may not have data files attached**, depending on your use case. 
+  * *For example, external links frmo data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
 
 ## Instructions to Edit an Existing Dataset
 
