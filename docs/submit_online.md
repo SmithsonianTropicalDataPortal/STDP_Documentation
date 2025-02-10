@@ -61,7 +61,7 @@ Once you click on the "Sign in with ORCID" button, the system will redirect you 
 ![FIGURE 4: Section to add files](../images/Section%20to%20add%20files.png)
 <p align="center">Figure 4: Section to add files</p>
 
-#### To review the expectations for content in sections 1-5, refer to our Package Level Metadata Guide.
+#### To review the expectations for content in sections 1-5, refer to our [Package Level Metadata Guide](../docs/package_level_meta_reqs).
 
 ## Sections
 
