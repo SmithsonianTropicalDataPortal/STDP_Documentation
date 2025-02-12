@@ -14,7 +14,7 @@ These instructions assume you have been given access to upload data by a Smithso
 
 ## Access the Data Submission Web Form
 
-**Click the link to the data submission web form: [https://smithsonian.dataone.org](https://smithsonian.dataone.org/submit)**
+**Click the link to the data submission web form: <a href="https://smithsonian.dataone.org/submit" target="_blank">https://smithsonian.dataone.org</a>**
 
 This link will take you to a sign in screen where you can use your ORCID credentials to sign in. (Figure 1)
 
@@ -58,43 +58,81 @@ Once you click on the "Sign in with ORCID" button, the system will redirect you 
 
 <p align="center">
   <figure>
-    <a href="images/Section%20to%20add%20files.png">
-      <img src="images/Section%20to%20add%20files.png" alt="Figure 4: Section to add files">
+    <a href="/images/Section%20to%20add%20files.png">
+      <img src="/images/Section%20to%20add%20files.png" alt="Figure 4: Section to add files">
     </a>
     <figcaption align="center" style="font-size: 0.9em;">Figure 4: Section to add files</figcaption>
   </figure>
 </p>
 
-#### To review the expectations for content in sections 1-5, refer to our [Package Level Metadata Guide](../docs/package_level_meta_reqs.md).
+#### To review the expectations for content in sections 1-5, refer to our [Package Level Metadata Guide](/package_level_meta_reqs/).
+
 
 ## Sections
 
 #### **Overview Tab**
-![FIGURE 5: Overview Section](../docs/images/Overview.png)
-<p align="center">Figure 5: Overview Section</p>
+<p align="center">
+  <figure>
+    <a href="/images/Overview.png">
+      <img src="/images/Overview.png" alt="Figure 4: Section to add files">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 5: Overview Section</figcaption>
+  </figure>
+</p>
 
 #### **People Tab**
-![ FIGURE 6: People Section](../docs/images/People.png)
-<p align="center">Figure 6: People Section</p>
+<p align="center">
+  <figure>
+    <a href="/images/People.png">
+      <img src="/images/People.png" alt="Figure 6: People Section">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 6: People Section</figcaption>
+  </figure>
+</p>
 
 #### **Dates Tab**
-![ FIGURE 7: Dates Section](../docs/images/Dates.png)
-<p align="center">Figure 7: Dates Section</p>
+<p align="center">
+  <figure>
+    <a href="/images/Dates.png">
+      <img src="/images/Dates.png" alt="Figure 7: Dates Section">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 7: Dates Section</figcaption>
+  </figure>
+</p>
 
 #### **Locations Tab**
-![ FIGURE 8: Locations Section](../docs/images/Locations.png)
-<p align="center">Figure 8: Locations Section</p>
+<p align="center">
+  <figure>
+    <a href="/images/Locations.png">
+      <img src="/images/Locations.png" alt="Figure 8: Locations Section">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 8: Locations Section</figcaption>
+  </figure>
+</p>
 
 #### **Methods Tab**
-![ FIGURE 9: Methods Section](../docs/images/Methods.png)
-<p align="center">Figure 9: Methods Section</p>
+<p align="center">
+  <figure>
+    <a href="/images/Methods.png">
+      <img src="/images/Methods.png" alt="Figure 9: Methods Section">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 9: Methods Section</figcaption>
+  </figure>
+</p>
+
 
 ## Save the Dataset
 
 When complete, hit the "Save Dataset" button at the bottom of your screen(Figure 10). This will save the record as a private dataset/data package.
 
-![ FIGURE 10: Save Dataset button](../docs/images/Save%20Dataset.png)
-<p align="center">Figure 10: Save Dataset button</p>
+<p align="center">
+  <figure>
+    <a href="/images/Save%20Dataset.png">
+      <img src="/images/Save%20Dataset.png" alt="Figure 10: Save Dataset button">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 10: Save Dataset button</figcaption>
+  </figure>
+</p>
 
 When you save your dataset it will remain private.
 
@@ -102,12 +140,25 @@ When you save your dataset it will remain private.
 
 If your submission is successful, you will see a confirmation message (Figure 11). Click on the "View your Dataset" button.
 
-![ FIGURE 11: A Successful Save Dataset/Submission Message](../docs/images/View%20your%20Dataset.png)
+<p align="center">
+  <figure>
+    <a href="/images/Save%20Dataset.png">
+      <img src="/images/Save%20Dataset.png" alt="FIGURE 11: A Successful Save Dataset/Submission Message">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 11: A Successful Save Dataset/Submission Message</figcaption>
+  </figure>
+</p>
 
 Your browser will prompt you with a message asking "Leave this page? All of your unsaved changes will be lost."(Figure 12) Don't worry! Since you just clicked the "Save Dataset" button, your changes have been saved. You can safely proceed by clicking "Okay".
 
-![ FIGURE 12: Browser prompt to leave page](../docs/images/are_you_sure.png)
-<p align="center">Figure 12: Browser prompt to leave page</p>
+<p align="center">
+  <figure>
+    <a href="/images/are_you_sure.png">
+      <img src="/images/are_you_sure.png" alt="Figure 12: Browser prompt to leave page">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 12: Browser prompt to leave page</figcaption>
+  </figure>
+</p>
 
 Here you can review you data package and verify that your dataset details are entered correctly (Figure 13). If you run into any problems, send an email to BrissetteL@si.edu or WhiteA@si.edu, with the error message you received. Notify the data team BrissetteL@si.edu when you are done with your submission and would like it to be reviewed before making it public.
 
