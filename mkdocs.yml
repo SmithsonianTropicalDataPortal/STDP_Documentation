@@ -1,5 +1,9 @@
-site_name: My Awesome Documentation
+site_name: My Documentation Site
 theme:
-  name: mkdocs  # You can change this to 'readthedocs' or use a custom theme like 'material' if you have it installed.
+  name: mkdocs
 nav:
   - Home: index.md
+  - File Level Metadata: file_level_metadata.md
+  - Package Level Metadata: package_level_metadata.md
+  - Register to Submit: register_to_submit.md
+  - Submit Online: submit_online.md
