@@ -1,0 +1,5 @@
+site_name: My Awesome Documentation
+theme:
+  name: mkdocs  # You can change this to 'readthedocs' or use a custom theme like 'material' if you have it installed.
+nav:
+  - Home: index.md
