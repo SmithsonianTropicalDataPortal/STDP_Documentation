@@ -4,9 +4,10 @@ theme:
 nav:
   - Home: index.md
   - Register to Submit: register_to_submit.md
+  - Submit Online: submit_online.md
   - File Level Metadata: file_level_metadata.md
   - Package Level Metadata: package_level_meta_reqs.md
-  - Submit Online: submit_online.md
+  
 
 extra_css:
   - css/custom.css
