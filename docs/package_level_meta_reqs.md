@@ -28,7 +28,7 @@ A set of automated checks are performed whenever a dataset is submitted. The res
    <h3>Overview</h3>
    <ul>
      <li><a href="#title">Title<span style = "color:red">*</span></a></li>
-     <li><a href="#existing-doi--alternative-identifiers">Existing DOI & Alternate Identifiers</a></li>
+     <li><a href="#existing-doi-and-alternative-identifiers">Existing DOI & Alternate Identifiers</a></li>
      <li><a href="#abstract">Abstract<span style = "color:red">*</span></a></li>
      <li><a href="#keywords">Keywords<span style = "color:red">*</span></a></li>
      <li><a href="#publication-date">Publication Date</a></li>
@@ -74,7 +74,7 @@ A set of automated checks are performed whenever a dataset is submitted. The res
 | **JSON-LD Field**   | `name`                                                                                                                                                                                                                                                                                                                                                         |
 | **Automated Check** | **Required:** Dataset title is between 7 and 40 words in length                                                                                                                                                                                                                                                                                                |
 
-## Existing DOI & Alternative Identifiers
+## Existing DOI and Alternative Identifiers
 |                     |                                                                                                                                                                                                                                                                                                                                   |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Format**          | Free Text                                                                                                                                                                                                                                                                                                                         |

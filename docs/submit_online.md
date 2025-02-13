@@ -162,70 +162,100 @@ Your browser will prompt you with a message asking "Leave this page? All of your
 
 Here you can review you data package and verify that your dataset details are entered correctly (Figure 13). If you run into any problems, send an email to BrissetteL@si.edu or WhiteA@si.edu, with the error message you received. Notify the data team BrissetteL@si.edu when you are done with your submission and would like it to be reviewed before making it public.
 
-![ FIGURE 13: Dataset Landing Page](../docs/images/Freshly_Saved.png)
-<p align="center">Figure 13: Dataset Landing Page</p>
+<p align="center">
+  <figure>
+    <a href="/images/Freshly_Saved.png">
+      <img src="/images/Freshly_Saved.png" alt="Figure 13: Dataset Landing Page">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 13: Dataset Landing Page</figcaption>
+  </figure>
+</p>
 
-### Important Details to Note
+## Important Details to Note
 
 1. **Private Dataset Indicator**
-   * **The orange circle with a lock indicates that this dataset is Private**
-   * Only you, individuals with shared access, and the admin team can view private datasets
-   * Datasets can remain "Private" throughout the drafting and review process, or for a prolonged amount of time as if to embargo the data.
+   
+    * **The orange circle with a lock indicates that this dataset is Private**
+    * Only you, individuals with shared access, and the admin team can view private datasets
+    * Datasets can remain "Private" throughout the drafting and review process, or for a prolonged amount of time as if to embargo the data.
 
 2. **Publication Status**
-   * In the top right corner, you will see the dataset listed as “Published” along with the publication date. This indicates that it was successfully submitted and published to the repository, and it was given a unique identifier (urn:uuid: xxx) in the repository’s system.
-   * **Since the dataset it still set to Private, the public does not have access to this dataset.**
-
-3. **Publication Options**
    
-   Our repository offers two levels of data publication for the public:
+    * In the top right corner, you will see the dataset listed as “Published” along with the publication date. This indicates that it was successfully submitted and published to the repository, and it was given a unique identifier (urn:uuid: xxx) in the repository’s system.
+    * **Since the dataset it still set to Private, the public does not have access to this dataset.**
 
-   **Option 1: Publish with DOI**
+## **Publication Options**
+   
+Our repository offers two levels of data publication for the public:
+
+### **Option 1: Publish with DOI**
       
-      * DOI is a persistent, globally recognized identifier designed for formal data publication and citation. Using a DOI supports findability and accessibility by making datasets discoverable through DOI registries.
+   * DOI is a persistent, globally recognized identifier designed for formal data publication and citation. Using a DOI supports findability and accessibility by making datasets discoverable through DOI registries.
 
-      * To publish your dataset with a DOI, click the "Publish with DOI" button on the right-hand side of the dataset's landing page. Your dataset will also be assigned a DOI and a persistent link.
+   * To publish your dataset with a DOI, click the "Publish with DOI" button on the right-hand side of the dataset's landing page. Your dataset will also be assigned a DOI and a persistent link.
 
-      * If you make significant or minor edits after it has been published with a DOI and save those changes, the system will assign a new URN:UUID to the dataset. To republish the updated dataset with a DOI, you will need to click “Publish with DOI” again. This will assign a new, unique DOI to the updated dataset.  The citation will be formatted as follows: 
+   * **IMPORTANT NOTE:** If you make ANY edit after the dataset has been published with a DOI and save those changes, the system will assign a new URN:UUID to the dataset. To republish the updated dataset with a DOI, you will need to click “Publish with DOI” again. This will assign a new, unique DOI to the updated dataset.  The citation will be formatted as follows: 
 
-         <img src="../docs/images/cite_doi.png" width="75%">
-   <p align="center">Figure 14: Citation with DOI</p>
+<p align="center">
+  <figure>
+    <a href="/images/cite_doi.png">
+      <img src="/images/cite_doi.png" width= 75% alt="Figure 14: Citation with DOI">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 14: Citation with DOI</figcaption>
+  </figure>
+</p>
 
-   **Option 2: "Publish" with URN:UUID**
+### **Option 2: "Publish" with URN:UUID**
+   
    * To publish your dataset with the system's automatically generated unique identifier (URN:UUID). If edits are made, large or small, and the dataset is saved again, a new URN:UUID will be assigned to the dataset. The citation will be formatted as follows: 
 
-      <img src="../docs/images/cite_urn_uuid.png" width="75%">
-   <p align="center">Figure 15: Citation with URN:UUID</p>
+<p align="center">
+  <figure>
+    <a href="/images/cite_urn_uuid.png">
+      <img src="/images/cite_urn_uuid.png" width= 75% alt="Figure 15: Citation with URN:UUID">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 15: Citation with URN:UUID</figcaption>
+  </figure>
+</p>
 
-     * This may be a good option if this is already stored where it makes the most sense scientifically (e.g. NCBI, GBIF), or was published in another appropriate data repository before this repository was active (e.g. Zenodo, Dryad), while also contributing to the STDP by at least storing metadata describing your data on STDP. 
-       * *Publishing elsewhere published data will generally enhance the discoverability of your dataset by making it searchable on STDP, along with other Tropical project data stored on STDP.*
-     * You should notate any alternative identifiers (DOIs or URLs) in the [Existing or  Alternative Identifiers](../docs/package_level_meta_reqs.md/#existing-doi--alternative-identifiers) box in the Overview Section.
-     
-         To make data **public** with URN:UUID (Figure 16):
-         1. Click the edit button on the dataset's landing page
-         2. Click each "Share" button
-         3. Toggle sharing permissions from "Private" to "Public"
-         4. Save changes          
+To make data **public** with URN:UUID (Figure 16):
+  
+  1. Click the edit button on the dataset's landing page
+  2. Click each "Share" button
+  3. Toggle sharing permissions from "Private" to "Public"
+  4. Save changes 
+   
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
    <figure style="text-align: center; width: 50%;">
-    <img src="../docs/images/Make Public.png" alt="Image 3" style="width: 100%;">
+    <img src="/images/Make Public.png" alt="Image 3" style="width: 100%;">
     <figcaption>Figure 16: Private Access Permissions</figcaption>
   </figure>
    <figure style="margin-right: 10px; text-align: center; width: 50%;">
-    <img src="../docs/images/Public_access.png" alt="Image 1" style="width: 100%;">
+    <img src="/images/Public_access.png" alt="Image 1" style="width: 100%;">
     <figcaption>Figure 17: Public Access Permissions</figcaption>
   </figure>
 </div>
+
+* Not assigning a DOI may be a good option if the dataset is already stored in a scientifically appropriate repository (e.g., NCBI, GBIF) or was published in another suitable repository before this one was active (e.g., Zenodo, Dryad). However, you can still contribute to the STDP by ensuring that metadata describing your data is stored there.
+* *Publishing elsewhere published data will generally enhance the discoverability of your dataset by making it searchable on STDP, along with other Tropical project data stored on STDP.* 
+* You should notate any alternative identifiers (DOIs or URLs) in the [Existing or  Alternative Identifiers](/package_level_meta_reqs/#existing-doi-and-alternative-identifiers) box in the Overview Section.
+
 
 ### More Information 
 
 * Regardless of which option above you choose, all datasets must have **complete metadata on STDP**. It must be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form.  
 * Datasets published under [option 2](../docs/submit_online.md/#important-details-to-note) **may or may not have data files attached**, depending on your use case. 
-  * *For example, external links frmo data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
+  * *For example, external links from data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
 
 ## Instructions to Edit an Existing Dataset
 
 Click on the Edit Button on your dataset's landing page. This will take you to the form where you previously entered your metadata and uploaded data files.
 
-![INSERT FIGURE 17: Edit Dataset](../docs/images/Edit%20Dataset.png)
-<p align="center">Figure 17: Edit Dataset</p>
+<p align="center">
+  <figure>
+    <a href="/images/Edit%20Dataset.png">
+      <img src="/images/Edit%20Dataset.png" alt="Figure 17: Edit Dataset">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 17: Edit Dataset</figcaption>
+  </figure>
+</p>
