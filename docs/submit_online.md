@@ -244,7 +244,7 @@ To make data **public** with URN:UUID (Figure 16):
 ### More Information 
 
 * Regardless of which option above you choose, all datasets must have **complete metadata on STDP**. It must be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form.  
-* Datasets published under [option 2](../docs/submit_online.md/#important-details-to-note) **may or may not have data files attached**, depending on your use case. 
+* Datasets published under [option 2](/submit_online/#option-2-publish-with-urnuuid) **may or may not have data files attached**, depending on your use case. 
   * *For example, external links from data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
 
 ## Instructions to Edit an Existing Dataset
