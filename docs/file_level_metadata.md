@@ -7,3 +7,9 @@ For all numeric data, unit information is needed (e.g.: meters, kelvin, etc.). I
 For all date-time data, a date-time format is needed (e.g.: “YYYY-MM-DD”).
 For all spatial data, the spatial reference system details are needed.
 For text data, full descriptions for all patterns/codes are needed if the text is constrained to a list of patterns or codes (e.g. a phone number would be constrained to a certain pattern and abbreviations for site locations may be constrained to a list of codes).
+
+
+o	Metadata that describe the data files 
+	The portal will prompt you to describe your variates. For each column of each table, please provide the attribute name (as used on the table), attribute label  (a descriptive display name, e.g. Temp_p2 = Temperature, probe 2), an attribute definition (unformatted text), a missing value indicator, a category type, and units of measurement, if applicable. 
+	Alternatively, if your data has a significant number of columns, it is acceptable to include a document or spreadsheet that outlines the variable descriptions. This should, at minimum, include:
+•	Column names, units of measurements, attribute definition, categorical descriptions, and the missing value codes/indicator descriptions. 
