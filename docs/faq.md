@@ -16,7 +16,7 @@ For example, if a research project consists of field sampling at several distinc
 
 ## Search FAQ
 ### Why can’t I see all the Smithsonian Figshare historical data here?
-STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a>to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `WhiteA@is.edu`.
+STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a> to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `WhiteA@is.edu`.
 
 ### Why can’t I see the data I uploaded in the dataset listing?
 Check if you are logged in. If you haven’t Published your dataset, then it will only be visible, privately to you, once you are logged in.
@@ -53,4 +53,5 @@ Uploading large amounts of data can be really difficult on home internet connect
 
 * Please contact ess-dive-support@lbl.gov should the upload issue persist.
 
-Additionally, you may want to consider using Globus to workaround upload errors. Globus is a third-party data transfer tool that ESS-DIVE commonly uses to support large or difficult file uploads. Learn more on our Globus documentation page:
+* Additionally, you may want to consider using Globus to workaround upload errors. Globus is a third-party data transfer tool that ESS-DIVE commonly uses to support large or difficult file uploads. Learn more on our <a href="https://smithsonian.dataone.org/portals/tropical/Globus" target="_blank">Globus documentation page</a>.
+
