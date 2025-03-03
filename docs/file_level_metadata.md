@@ -22,7 +22,7 @@ For each column of each table, please provide:
 
 Alternatively, you can attach additional documentation that helps to describe your data. This can include a **README** document, **Data Dictionary**, and some sort of **Categorical Codebook**, if applicable. 
 
-Functionally, this will capture the same information that would have otherwsie been noted in the portal interface but is now added as a user friendly set of descriptive files.  It is useful to create a data dictionary to describe your tabular data and accompany deposit in a repository so that others can interpret and reuse your data.
+Functionally, this will capture the same information that would have otherwise been noted in the portal interface but is now added as a user friendly set of descriptive files.  It is useful to create a data dictionary to describe your tabular data and accompany deposit in a repository so that others can interpret and reuse your data.
 
 #### What is a Data Dictionary?
 
@@ -40,4 +40,8 @@ Open Science Framework provides a nice resource to learn more <a href="https://h
 
 At the least, a categorical codebook should include:
 
-* 
+* Column name
+* Category
+* Definition
+* Source (which file the category is used in)
+

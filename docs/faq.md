@@ -14,6 +14,24 @@ The Smithsonian Research Data Repository primarily archives data packages. Data 
 
 For example, if a research project consists of field sampling at several distinct sites or over several distinct sampling seasons, each site/season may have its own unique data package. When submitting to the Smithsonian Tropical Data Portal, it is up to the best judgement of the submitting researcher how their research should be grouped.
 
+### What if I have already published my data in Dryad, NCBI, GBIF, etc.?
+
+If your data has already been published in another repository, specialty or not, we still invite you to publish in the STDP. There are a few options that you may consider if you find youself in this case. 
+
+
+<p align="center">
+  <figure>
+    <a href="/images/previously_published_flowchart.png">
+      <img src="/images/viously_published_flowchart.png" alt="Options for placing previously published datasets in STDP">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Options for placing previously published datasets in STDP</figcaption>
+  </figure>
+</p>
+
+### What is the Licesning and Data Distribution terms for datasets added to STRP?
+
+All data and metadata will be released under either the CC-0 Public Domain Dedication or the Creative Commons Attribution 4.0 International License. In cases where legal (e.g., contractual) or ethical (e.g., human subjects) restrictions to data sharing exist, it is incumbent on the researcher to ensure compliance with all federal, university, and Institutional Review Board policies, so as to not publish sensitive data. As a repository dedicated to helping researchers increase collaboration and the pace of science, this repository needs certain rights to copy, store, and redistribute data and metadata. By uploading data, metadata, and any other content to the KNB, users warrant that they own any rights to the content and are authorized to do so under copyright or any other right that might pertain to the content. Data and facts themselves are not covered under copyright in the US and most countries, since facts in and of themselves are not eligible for copyright. That said, some associated metadata and some particular compilations of data could potentially be covered by copyright in some jurisdictions. **By uploading content, users grant the STDP repository and the Smithsonian all rights needed to copy, store, redistribute, and share data, metadata, and any other content. By marking content as publicly available, users grant the STDP repository, the Smithsonian, and any other users the right to copy the content and redistribute it to the public without restriction under the terms of the CC-0 Public Domain Dedication or the Creative Commons Attribution 4.0 International License, depending on which license users choose at the time of upload.**
+
 ## Search FAQ
 ### Why can’t I see all the Smithsonian Figshare historical data here?
 STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a> to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `WhiteA@is.edu`.
@@ -34,9 +52,36 @@ To see an example of a good dataset, visit these packages on STDP:
 If you would like to reference other datasets that have been reviewed and published in the STDP, visit https://smithsonian.dataone/data and explore the list of published datasets.
 
 ### What metadata do you need to submit a dataset?
-We need metadata about what the dataset is about (e.g. title, description, keywords, funding), and author information. Check out [this page](/submit_online/) to preview the submission form to get a sense of the types of metadata a dataset needs. 
+
+Metadata are ultimately "data about data" - the contextual information needed to interpret a set of raw data observations. They provide meaning to data, and are critical when it comes to sharing, integrating, and analyzing data. Too often people collect data for projects and leave them undocumented for years or decades. These data, while potential of very high value, can become useless over time due to data entropy.
+
+At a high level, we are looking for metadata about what the dataset is about (e.g. title, description, keywords, funding), and author information. Check out [this page](/submit_online/) to preview the submission form to get a sense of the types of metadata a dataset needs. 
 
 To understand the Smithsonian Tropical Data Portal's expectations for metadata content, see our [Package Level Metadata Guide](/package_level_meta_reqs/) for details.
+
+For a thorough understanding of the dataset, you might consider adding all of the metadata applicable to your project, as outlined below. 
+
+The goal of metadata is to document a project's output so that a reasonable scientist will be able to understand and use all the components of the output without any outside consultation. The following components represent a non-exhaustive list of components typically expected within metadata records submitted to the STDP:
+
+* A descriptive title that includes the topic, geographic location, dates, and, if applicable, the scale of the data.
+* A descriptive data package abstract that provides a brief overview summarizing the specific contents and purpose of the data package.
+* Funding information, if applicable.
+* A list of all people or organizations associated with the data package with at least one person or organization acting as a creator and one acting as a contact (these can be the same).
+* Full records of field and laboratory sampling times and locations, including a geographic description interpretable by a general scientific audience.
+* Full records of taxonomic coverage within the data package (if applicable).
+* Full descriptions of field and laboratory sample collection methods.
+* Full descriptions of field and laboratory sample processing methods.
+* Full descriptions of any hardware and software used (including make, model, and version where applicable).
+* Full attribute/variable information for all data.
+* Quality control procedures.
+* Relevant explanations for why the particular components detailed above were chosen for the project.
+
+
+### What File Formats are acccepted?
+
+While STDP supports the upload of any data file format, sharing data can be greatly enhanced  if you use ubiquitous, easy-to-read formats. For instance, while Microsoft Excel files are commonplace, it's better to export these spreadsheets to Comma Separated Values (CSV) text files, which can be read on any computer without having Microsoft products installed.
+
+For image files, use common formats like PNG, JPEG, TIFF, etc. Most all browsers can handle these. If you use specialized software to create your data, try to save you data in well-known formats. For instance, GIS data can be exported to ESRI shapefiles, and data created in Matlab or other matrix-based programs can be exported as NetCDF (an open binary format).
 
 ### What happens after I "Save Dataset"?
 The dataset will be entered into the STDP system, and will only be visible to you, and those that you share the data package with, privately until you [Publish](/submit_online/#publication_options/) the data. You can continue to Edit the record after you submit.
