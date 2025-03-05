@@ -16,25 +16,23 @@ For example, if a research project consists of field sampling at several distinc
 
 ### What if I have already published my data in Dryad, NCBI, GBIF, etc.?
 
-If your data has already been published in another repository, specialty or not, we still invite you to publish in the STDP. There are a few options that you may consider if you find youself in this case. 
+If your data has already been published in another repository, specialty or not, we still invite you to publish in the STDP. There are a few options that you may consider if you find youself in this situation (Figure 1)
+
+Publishing a dataset or its metadata in an additional repository—even if previously published—enhances data discoverability and longevity. As part of the DataOne federation, STDP adheres to FAIR principles, ensuring that your data is easily Findable through persistent identifiers, Accessible via standardized web services, Interoperable with common data formats, and Reusable with rich metadata. This additional archiving not only broadens the dataset’s reach but also reinforces data integrity, promotes reproducibility, and facilitates collaboration within the tropical scientific community.
 
 
 <p align="center">
   <figure>
     <a href="/images/previously_published_flowchart.png">
-      <img src="/images/viously_published_flowchart.png" alt="Options for placing previously published datasets in STDP">
+      <img src="/images/previously_published_flowchart.png" alt="Options for placing previously published datasets in STDP">
     </a>
-    <figcaption align="center" style="font-size: 0.9em;">Options for placing previously published datasets in STDP</figcaption>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 1. Options for placing previously published datasets in STDP</figcaption>
   </figure>
 </p>
 
-### What is the Licesning and Data Distribution terms for datasets added to STRP?
-
-All data and metadata will be released under either the CC-0 Public Domain Dedication or the Creative Commons Attribution 4.0 International License. In cases where legal (e.g., contractual) or ethical (e.g., human subjects) restrictions to data sharing exist, it is incumbent on the researcher to ensure compliance with all federal, university, and Institutional Review Board policies, so as to not publish sensitive data. As a repository dedicated to helping researchers increase collaboration and the pace of science, this repository needs certain rights to copy, store, and redistribute data and metadata. By uploading data, metadata, and any other content to the KNB, users warrant that they own any rights to the content and are authorized to do so under copyright or any other right that might pertain to the content. Data and facts themselves are not covered under copyright in the US and most countries, since facts in and of themselves are not eligible for copyright. That said, some associated metadata and some particular compilations of data could potentially be covered by copyright in some jurisdictions. **By uploading content, users grant the STDP repository and the Smithsonian all rights needed to copy, store, redistribute, and share data, metadata, and any other content. By marking content as publicly available, users grant the STDP repository, the Smithsonian, and any other users the right to copy the content and redistribute it to the public without restriction under the terms of the CC-0 Public Domain Dedication or the Creative Commons Attribution 4.0 International License, depending on which license users choose at the time of upload.**
-
 ## Search FAQ
 ### Why can’t I see all the Smithsonian Figshare historical data here?
-STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a> to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `WhiteA@is.edu`.
+STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a> to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `WhiteA@si.edu`.
 
 ### Why can’t I see the data I uploaded in the dataset listing?
 Check if you are logged in. If you haven’t Published your dataset, then it will only be visible, privately to you, once you are logged in.
@@ -100,3 +98,10 @@ Uploading large amounts of data can be really difficult on home internet connect
 
 * Additionally, you may want to consider using Globus to workaround upload errors. Globus is a third-party data transfer tool that ESS-DIVE commonly uses to support large or difficult file uploads. Learn more on our <a href="https://smithsonian.dataone.org/portals/tropical/Globus" target="_blank">Globus documentation page</a>.
 
+## Other
+
+### What are the Liscening and Data Distribution terms for datasets added into STRP?
+
+All data and metadata will be released under either the <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC-0 Public Domain Dedication</a> or the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>. In cases where legal (e.g., contractual) or ethical (e.g., human subjects) restrictions to data sharing exist, it is incumbent on the researcher to ensure compliance with all federal, university, and Institutional Review Board policies, so as to not publish sensitive data. As a repository dedicated to helping researchers increase collaboration and the pace of science, this repository needs certain rights to copy, store, and redistribute data and metadata. By uploading data, metadata, and any other content to the KNB, users warrant that they own any rights to the content and are authorized to do so under copyright or any other right that might pertain to the content. <a href="https://www.bitlaw.com/copyright/database.html" target="_blank">Data and facts themselves are not covered under copyright</a> in the US and most countries, since facts in and of themselves are not eligible for copyright. That said, some associated metadata and some particular compilations of data could potentially be covered by copyright in some jurisdictions. 
+
+**By uploading content, users grant the STDP repository and the Smithsonian all rights needed to copy, store, redistribute, and share data, metadata, and any other content. By marking content as publicly available, users grant the STDP repository, the Smithsonian, and any other users the right to copy the content and redistribute it to the public without restriction under the terms of the <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC-0 Public Domain Dedication</a> or the <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International License</a>, depending on which license users choose at the time of upload.**
