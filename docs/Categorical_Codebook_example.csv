@@ -1,0 +1,22 @@
+﻿Column Name,Category,Definition
+SampleType,Leaf,"Flat organ primarily involved in photosynthesis. Note: This campaign specifically targeted collection of distinctively colored young leaves, so these measurements should not be considered typical of mature laves."
+SampleType,Bark,Outermost layer of stems of woody plants.
+SampleType,Fruit,"The plant dispersal units post-fertilization, including fruits and seeds and nuts.  "
+SampleType,Flower,"The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are usually surrounded by brightly colored petals and sepals."
+SampleType,Seed,"A flowering plant's unit of reproduction. For sample collection, usually grouped with other diaspore structures as fruit."
+SampleState,Mature,Samples that are fully developed and capable of fertilization (flowers) or germination. Identified by correct structure and color and a lack of wilting and decay.
+SampleState,Immature,Samples that are still in development and are not fully capable of reproduction. Usually smaller or lack full structural development and may be a different color.
+SampleState,Senescent,Samples that are past the prime stage and show signs of general deterioration (wilting/discoloration/decay). Samples showing early signs of senescing were collected at times (although mature samples were preferred); fully senescent and decaying samples were avoided.
+MeasurementType,contact,Spectral reflectance reading is taken with full contact and pressure applied between the contact probe and the sample (to obtain stronger readings).
+MeasurementType,near-contact,Spectral reflectance reading is taken with a 5-15mm distance between the contact probe and the sample or the white reference plate (to maintain sample structure).
+MeasurementType,leaf-clip,Spectral reflectance readings are measured using the leaf clip accessory.
+ViewType,adaxial,Upper surface of a leaf.
+ViewType,abaxial,Lower surface of a leaf.
+ViewType,interior,The inner surface of a sample that may be enclosed during organ development but becomes exposed during maturing (the inside surface of a seed capsule/center of a flower).
+ViewType,exterior,The outer surface of an organ (outside surface of a seed capsule; flower sepals; or outer petals.)
+ViewType,aril,"Fleshy envelope of seed, usually brightly colored."
+ViewType,capsule,Fruit–usually dry– that opens when ripe to release seeds.
+ViewType,single,A single leaf measured on the adaxial (upper) surface.
+ViewType,stacked,A stack of three leaves measured together on the adaxial (upper) surface.
+ViewType,pericarp seed,Refers to the outer layer of a seed that is often part of the fruit wall that develops from the ovary after fertilization.
+ViewType,wing,A wing-like extension of a fruit that is typically aiding in wind dispersal.

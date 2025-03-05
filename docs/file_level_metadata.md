@@ -135,5 +135,8 @@ At the least, a categorical codebook should include:
     * <a href="../README_completed_example_2.pdf" download>Example 2 Completed README</a>
     * <a href="../README_AllInOne_template.txt" download>Download ALL-IN-ONE README + Data Dictionary + Categorical Codebook Template</a>
 * Data Dictionary
-    *  * <a href="../Data_Dictionary_template.txt" download>Download Template</a>
+    * <a href="../Data_dictionary_template.csv" download>Download Template</a>
+    * <a href="../Data_dictionary_example.csv" download>Example Completed Data Dictionary</a>
 * Categoical Codebook
+    * <a href="../Categorical_Codebook_template.csv" download>Download Template</a>
+    * <a href="../Categorical_codebook_example.csv" download>Example Completed Categorical Codebook</a>
