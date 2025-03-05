@@ -2,14 +2,21 @@
 
 Metadata are ultimately "data about data" - the contextual information needed to interpret a set of raw data observations. They provide meaning to data, and are critical when it comes to sharing, integrating, and analyzing data. Too often people collect data for projects and leave them undocumented for years or decades. These data, while potential of very high value, can become useless over time due to data entropy.
 
-The STDP primarily stores metadata in a structured, XML-based files. Ideally, plans to create and store metadata records should be made during the initial stages of project development (i.e., within the data management plan of the project proposal).
+The STDP primarily stores metadata in a structured, XML-based files. Ideally, plans to create and store metadata records should be made during the initial stages of project development (i.e., within the data management plan of the project proposal). 
 
-## Metadata that help to describe the data files 
+If you would like guidance in forming Data Management Plans, and other tools to help manage your research data, the Smithsonian Library has available resources published here: 
+<a href="https://library.si.edu/research/manage-research-data" class="button">Manage Research Data</a>
+
+<a href="https://library.si.edu/research" class="button">Smithsonian Library Research Tools</a>
+
+## **Describe the data in your files**
 ### **Within the portal user interface**
 
 The portal will prompt you to describe each of your columns of each of your tabular files. 
 
-For this reason, it is recommended that tabular data is submitted in a long (versus wide) format if possible. Learn more about long versus wide <a href="https://www.statology.org/long-vs-wide-data/" target="_blank">in this article "Long vs. Wide Data: What’s the Difference?"</a> or <a href="https://www.youtube.com/watch?v=-3P6QzdMRZ0" target="_blank">this video "Tidy Data, Wide Data & Long Data"</a>. Long file formats can make documentation of column attributes (variables) much easier, and it will allow future users of the data to more easily process the data programmatically. However, it is up to the user on how they prefer to format their data, STDP accepts both long and wide formatted data. 
+For this reason, it is recommended that tabular data is submitted in a long (versus wide) format if possible. Learn more about long versus wide <a href="https://www.statology.org/long-vs-wide-data/" target="_blank">in this article "Long vs. Wide Data: What’s the Difference?"</a> or <a href="https://www.youtube.com/watch?v=-3P6QzdMRZ0" target="_blank">this video "Tidy Data, Wide Data & Long Data"</a>. 
+
+Long file formats can make documentation of column attributes (variables) much easier, and it will allow future users of the data to more easily process the data programmatically. However, it is up to the user on how they prefer to format their data, STDP accepts both long and wide formatted data. 
 
 
 For each applicable column of each table, please provide:
@@ -21,7 +28,7 @@ For each applicable column of each table, please provide:
 * a category type
 * units of measurement, if applicable 
 
-#### Our web portal offers users the option to notate this information in a point and click fashion. 
+#### Our web portal offers users the option to notate metadata in a point and click fashion. 
 
 After the file has been uploaded, users can "Describe" their data (Figure 1). 
 
@@ -94,7 +101,7 @@ After you have finished describing your dataset, you can select the "Done" butto
   </figure>
 </p>
 
-### **As a set of descriptive documents**
+### **Within a set of descriptive documents**
 
 Alternatively, you can attach additional documentation that helps to describe your data. This can include a **README** document, **Data Dictionary**, and some sort of **Categorical Codebook**, if applicable. 
 
