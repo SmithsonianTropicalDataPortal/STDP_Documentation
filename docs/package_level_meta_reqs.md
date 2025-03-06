@@ -23,6 +23,8 @@ See SD-118 for a detailed list of examples.
 
 A set of automated checks are performed whenever a dataset is submitted. The results of these checks are compiled into an Assessment Report and used in the review process. Failed automated checks or warnings should be addressed as much as possible by the dataset submitter before requesting publication.
 
+## Step By Step Information 
+
 <div style="display: flex; align-items: flex-start;">
  <div style="margin-right: 50px;">
    <h3>Overview</h3>
