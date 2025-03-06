@@ -11,7 +11,7 @@ The mission of the Smithsonian Tropical Data Portal is to help the international
 ## Get Started
 
 Choose one of the sections below to get started, or navigate using the left-hand menu.
-<a href="register_to_submit/" class="button" target="_blank" rel="noopener noreferrer">Register to Submit</a>
+<a href="./register_to_submit/" class="button" target="_blank" rel="noopener noreferrer">Register to Submit</a>
 
 <a href="/submit_online/" class="button" target="_blank" rel="noopener noreferrer">Submit Dataset Online</a>
 
