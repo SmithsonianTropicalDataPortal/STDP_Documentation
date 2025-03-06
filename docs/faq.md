@@ -4,7 +4,7 @@
 In short, yes. The mission of the Smithsonian Tropical Data Portal is to help the international community preserve, share, and discover tropical data and other research products including protocols, code, reports, and presentations. We aim to help make past, current, and future tropical datasets accessible by providing resources for documentation, management, storage, and visualization of tropical research data. 
 
 ### How do I create an account with STDP to upload data?
-Check out our [User Registration](register_to_submit/) help documentation to get started with uploads.
+Check out our [User Registration](../register_to_submit/) help documentation to get started with uploads.
 
 ### I'm having trouble logging in with my ORCID.
 If login is not working, please try one or all of our [login troubleshooting tips](login_troubleshooting/). Contact `WhiteA@si.edu` or `BrissetteL@si.edi` if problems persist.
