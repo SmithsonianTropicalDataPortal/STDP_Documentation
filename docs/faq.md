@@ -55,9 +55,9 @@ Metadata are ultimately "data about data" - the contextual information needed to
 
 At a high level, we are looking for metadata about what the dataset is about (e.g. title, description, keywords, funding), and author information. Check out [this page](/submit_online/) to preview the submission form to get a sense of the types of metadata a dataset needs. 
 
-To understand the Smithsonian Tropical Data Portal's expectations for metadata content, see our [Package Level Metadata Guide](/package_level_meta_reqs/) for details.
+To understand the Smithsonian Tropical Data Portal's expectations for metadata content, see our [Package Level Metadata Guide](/package_level_meta_reqs/) and [File Level Metadata Guide](/file_level_metadata/) for details.
 
-For a thorough understanding of the dataset, you might consider adding all of the metadata applicable to your project, as outlined below. 
+*To help other users have a thorough understanding of your dataset, you might consider adding all of the metadata applicable to your project, as outlined below.* 
 
 The goal of metadata is to document a project's output so that a reasonable scientist will be able to understand and use all the components of the output without any outside consultation. The following components represent a non-exhaustive list of components typically expected within metadata records submitted to the STDP:
 
