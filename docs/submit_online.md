@@ -207,7 +207,28 @@ Our repository offers two levels of data publication for the public:
 
 ### **Option 2: "Publish" with URN:UUID**
    
-   * To publish your dataset with the system's automatically generated unique identifier (URN:UUID). If edits are made, large or small, and the dataset is saved again, a new URN:UUID will be assigned to the dataset. The citation will be formatted as follows: 
+   * To publish your dataset with the system's automatically generated unique identifier (URN:UUID). To do this, all you need to do is change the dataset from **Private** to **Public**. Note: If edits are made, large or small, and the dataset is saved again, a new URN:UUID will be assigned to the dataset.
+
+
+To make data **public** with URN:UUID (Figure 17-18):
+  
+  1. Click the edit button on the dataset's landing page
+  2. Click each "Share" button
+  3. Toggle sharing permissions from "Private" to "Public"
+  4. Save changes 
+   
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+   <figure style="text-align: center; width: 50%;">
+    <img src="/images/Make Public.png" alt="Image 3" style="width: 100%;">
+    <figcaption>Figure 17: Private Access Permissions</figcaption>
+  </figure>
+   <figure style="margin-right: 10px; text-align: center; width: 50%;">
+    <img src="/images/Public_access.png" alt="Image 1" style="width: 100%;">
+    <figcaption>Figure 18: Public Access Permissions</figcaption>
+  </figure>
+</div>
+
+The citation will be formatted as follows: 
 
 <p align="center">
   <figure>
@@ -218,27 +239,21 @@ Our repository offers two levels of data publication for the public:
   </figure>
 </p>
 
-To make data **public** with URN:UUID (Figure 16):
-  
-  1. Click the edit button on the dataset's landing page
-  2. Click each "Share" button
-  3. Toggle sharing permissions from "Private" to "Public"
-  4. Save changes 
-   
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-   <figure style="text-align: center; width: 50%;">
-    <img src="/images/Make Public.png" alt="Image 3" style="width: 100%;">
-    <figcaption>Figure 16: Private Access Permissions</figcaption>
+If this dataset is essentially a duplicate of a version stored elsewhere, provide the ID of the original dataset hin the [Canonical Dataset](/package_level_meta_reqs/#canonical-dataset) box in the Overview Section. This must be a DOI or URL. Sometimes datasets in the Smithsonian Tropical Data Portal are essentially duplicates of an external dataset that was originally published elsewhere. For example, you may want to preserve a copy of a dataset in STDP for posterity or to ensure that the data remains accessible. In such cases, it is more approprite to cite the original dataset rather than the copy. The canonical version is displayed prominently in a banner on the dataset landing page, making it easy for users to identify the original dataset and cite it correctly (Figure 16). This avoids issues with misrepresentation and citation confusion. 
+
+<p align="center">
+  <figure>
+    <a href="/images/Canonical_Dataset.png">
+      <img src="/images/Canonical_Dataset.png" alt="Figure 16: How Canonical Datasets will be formated in the STDP.">
+    </a>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 16: How Canonical Datasets will be formated in the STDP.</figcaption>
   </figure>
-   <figure style="margin-right: 10px; text-align: center; width: 50%;">
-    <img src="/images/Public_access.png" alt="Image 1" style="width: 100%;">
-    <figcaption>Figure 17: Public Access Permissions</figcaption>
-  </figure>
-</div>
+</p>
+
 
 * Not assigning a DOI may be a good option if the dataset is already stored in a scientifically appropriate repository (e.g., NCBI, GBIF) or was published in another suitable repository before this one was active (e.g., Zenodo, Dryad). However, you can still contribute to the STDP by ensuring that metadata describing your data is stored there.
 * *Publishing elsewhere published data will generally enhance the discoverability of your dataset by making it searchable on STDP, along with other Tropical project data stored on STDP.* 
-* You should notate any alternative identifiers (DOIs or URLs) in the [Existing or  Alternative Identifiers](/package_level_meta_reqs/#existing-doi-and-alternative-identifiers) box in the Overview Section.
+* You should notate any alternative identifiers (DOIs or URLs) in the [Existing or Alternative Identifiers](/package_level_meta_reqs/#existing-doi-and-alternative-identifiers) box or [Canonical Dataset](/package_level_meta_reqs/#canonical-dataset) in the Overview Section.
 
 
 ### More Information 
@@ -254,8 +269,8 @@ Click on the Edit Button on your dataset's landing page. This will take you to t
 <p align="center">
   <figure>
     <a href="/images/Edit%20Dataset.png">
-      <img src="/images/Edit%20Dataset.png" alt="Figure 17: Edit Dataset">
+      <img src="/images/Edit%20Dataset.png" alt="Figure 19: Edit Dataset">
     </a>
-    <figcaption align="center" style="font-size: 0.9em;">Figure 17: Edit Dataset</figcaption>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 19: Edit Dataset</figcaption>
   </figure>
 </p>
