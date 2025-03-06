@@ -89,10 +89,10 @@ Once the column(s) are listed, you can now add the attribute level details and e
 
 #### <strong>Category <span style="color:red">*</span></strong> (Figure 6)
     
-* Ordered or Unordered Category (specify possible values<span style="color:red">*</span>) (Figure 7)
-* <p><a href="#figure7">Numeric</a></p>(specify the unit<span style="color:red">*</span>) (Figure 8)
-* <p><a href="#figure8">Date-time</a></p> (specify the date-time format<span style="color:red">*</span>) (Figure 8)
-* <p><a href="#figure9">Missing Value Codes</a></p> (if applicable, specify the code used and its definition) (Figure 9)
+* <p><a href="#figure7">Ordered or Unordered Category</a></p> (specify possible values<span style="color:red">*</span>) (Figure 7)
+* <p><a href="#figure8">Numeric</a></p>(specify the unit<span style="color:red">*</span>) (Figure 8)
+* <p><a href="#figure9">Date-time</a></p> (specify the date-time format<span style="color:red">*</span>) (Figure 8)
+* <p><a href="#figure10">Missing Value Codes</a></p> (if applicable, specify the code used and its definition) (Figure 9)
 
 <p align="center">
   <figure id="figure6" style="text-align: center; width: 100%;">
@@ -103,6 +103,8 @@ Once the column(s) are listed, you can now add the attribute level details and e
   </figure>
 </p>
 
+<hr style="border: 2px solid black; width: 100%;">
+
 <p align="center">
   <figure id="figure7" style="text-align: center; width: 100%;">
     <a href="../images/unordered_cat_list.png">
@@ -112,8 +114,21 @@ Once the column(s) are listed, you can now add the attribute level details and e
   </figure>
 </p>
 
+<hr style="border: 2px solid black; width: 100%;">
+
 <p align="center">
-  <figure id= "figure8" style="text-align: center; width: 100%;">
+  <figure id="figure8" style="text-align: center; width: 100%;">
+    <a href="../images/numeric_cat_list.png">
+      <img src="../images/numeric_cat_list.png" alt="Figure 8: The name of the standard unit used to make this measurement." style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 7: Possible Values for Unordered or Ordered Categories.</figcaption>
+  </figure>
+</p>
+
+<hr style="border: 2px solid black; width: 100%;">
+
+<p align="center">
+  <figure id= "figure9" style="text-align: center; width: 100%;">
     <a href="../images/datetime.png">
       <img src="../images/datetime.png" alt="Figure 8: Date-Time Format" style="width: 100%;">
     </a>
@@ -121,8 +136,10 @@ Once the column(s) are listed, you can now add the attribute level details and e
   </figure>
 </p>
 
+<hr style="border: 2px solid black; width: 100%;">
+
 <p align="center">
-  <figure id= "figure9" style="text-align: center; width: 100%;">
+  <figure id= "figure10" style="text-align: center; width: 100%;">
     <a href="../images/missing_values.png">
       <img src="../images/missing_values.png" alt="Figure 9: Define Missing Value indictor and explanation" style="width: 100%;">
     </a>
