@@ -198,8 +198,8 @@ Our repository offers a few ways to add your data to the repository.
 
 <p align="center">
   <figure>
-    <a href="/images/cite_doi.png">
-      <img src="/images/cite_doi.png" width= 75% alt="Figure 14: Citation with DOI">
+    <a href="../images/cite_doi.png">
+      <img src="../images/cite_doi.png" width= 75% alt="Figure 14: Citation with DOI">
     </a>
     <figcaption align="center" style="font-size: 0.9em;">Figure 14: Citation with DOI</figcaption>
   </figure>
@@ -219,12 +219,12 @@ To make data **public**  (Figure 17-18):
    
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
    <figure style="text-align: center; width: 50%;">
-    <img src="/images/Make Public.png" alt="Image 3" style="width: 100%;">
-    <figcaption>Figure 17: Private Access Permissions</figcaption>
+    <img src="../images/Make Public.png" alt="Figure 15: Private Access Permissions" style="width: 100%;">
+    <figcaption>Figure 15: Private Access Permissions</figcaption>
   </figure>
    <figure style="margin-right: 10px; text-align: center; width: 50%;">
-    <img src="/images/Public_access.png" alt="Image 1" style="width: 100%;">
-    <figcaption>Figure 18: Public Access Permissions</figcaption>
+    <img src="../images/Public_access.png" alt="Figure 16: Public Access Permissions" style="width: 100%;">
+    <figcaption>Figure 16: Public Access Permissions</figcaption>
   </figure>
 </div>
 
@@ -232,10 +232,10 @@ The citation will be formatted as follows:
 
 <p align="center">
   <figure>
-    <a href="/images/cite_urn_uuid.png">
-      <img src="/images/cite_urn_uuid.png" width= 75% alt="Figure 15: Citation with URN:UUID">
+    <a href="../images/cite_urn_uuid.png">
+      <img src="../images/cite_urn_uuid.png" width= 75% alt="Figure 17: Citation with URN:UUID">
     </a>
-    <figcaption align="center" style="font-size: 0.9em;">Figure 15: Citation with URN:UUID</figcaption>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 17: Citation with URN:UUID</figcaption>
   </figure>
 </p>
 
@@ -244,10 +244,10 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
 
 <p align="center">
   <figure>
-    <a href="/images/Canonical_Dataset.png">
-      <img src="/images/Canonical_Dataset.png" alt="Figure 16: How Canonical Datasets will be formated in the STDP.">
+    <a href="../images/Canonical_Dataset.png">
+      <img src="../images/Canonical_Dataset.png" alt="Figure 18: How Canonical Datasets will be formated in the STDP.">
     </a>
-    <figcaption align="center" style="font-size: 0.9em;">Figure 16: How Canonical Datasets will be formated in the STDP.</figcaption>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 18: How Canonical Datasets will be formated in the STDP.</figcaption>
   </figure>
 </p>
 
@@ -261,7 +261,7 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
     <a href="../images/previously_published_flowchart.png">
       <img src="../images/previously_published_flowchart.png" alt="Options for placing previously published datasets in STDP">
     </a>
-    <figcaption align="center" style="font-size: 0.9em;">Figure 1. Options for placing previously published datasets in STDP</figcaption>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 19. Options for placing previously published datasets in STDP</figcaption>
   </figure>
 </p>
 
@@ -277,9 +277,9 @@ Click on the Edit Button on your dataset's landing page. This will take you to t
 
 <p align="center">
   <figure>
-    <a href="/images/Edit%20Dataset.png">
-      <img src="/images/Edit%20Dataset.png" alt="Figure 19: Edit Dataset">
+    <a href="../images/Edit%20Dataset.png">
+      <img src="../images/Edit%20Dataset.png" alt="Figure 20: Edit Dataset">
     </a>
-    <figcaption align="center" style="font-size: 0.9em;">Figure 19: Edit Dataset</figcaption>
+    <figcaption align="center" style="font-size: 0.9em;">Figure 20: Edit Dataset</figcaption>
   </figure>
 </p>
