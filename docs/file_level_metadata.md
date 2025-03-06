@@ -5,9 +5,11 @@ Metadata are ultimately "data about data" - the contextual information needed to
 The STDP primarily stores metadata in a structured, XML-based files. Ideally, plans to create and store metadata records should be made during the initial stages of project development (i.e., within the data management plan of the project proposal). 
 
 If you would like guidance in forming Data Management Plans, and other tools to help manage your research data, the Smithsonian Library has available resources published here: 
-<a href="https://library.si.edu/research/manage-research-data" class="button">Manage Research Data</a>
+<a href="https://library.si.edu/research/manage-research-data" class="button" target="_blank" rel="noopener noreferrer">Manage Research Data</a>
 
-<a href="https://library.si.edu/research" class="button">Smithsonian Library Research Tools</a>
+
+<a href="https://library.si.edu/research" class="button" target="_blank" rel="noopener noreferrer">Smithsonian Library Research Tools</a>
+
 
 ## **Describe the data in your files**
 ### **Within the portal user interface**

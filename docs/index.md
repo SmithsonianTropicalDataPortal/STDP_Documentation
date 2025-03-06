@@ -11,16 +11,26 @@ The mission of the Smithsonian Tropical Data Portal is to help the international
 ## Get Started
 
 Choose one of the sections below to get started, or navigate using the left-hand menu.
+<a href="/register_to_submit/" class="button" target="_blank" rel="noopener noreferrer">Register to Submit</a>
 
-<a href="/register_to_submit/" class="button">Register to Submit</a>
+<a href="/submit_online/" class="button" target="_blank" rel="noopener noreferrer">Submit Dataset Online</a>
 
-<a href="/submit_online/" class="button">Submit Dataset Online</a>
+Find guidelines for:
 
-<a href="/manage_data/" class="button">Manage Data</a>
+<a href="/package_level_meta_reqs/" class="button" target="_blank" rel="noopener noreferrer">Package Level Metadata</a>
 
-Find guidelines for <a href="/package_level_meta_reqs/" class="button">Package Level Metadata</a> or <a href="/file_level_metadata/" class="button">File Level Metadata</a>
+<a href="/file_level_metadata/" class="button" target="_blank" rel="noopener noreferrer">File Level Metadata</a>
 
-<a href="/faq/" class="button">Frequently Asked Questions</a>
+Smithsonian Libraries Resources:
+
+<a href="https://library.si.edu/research/manage-research-data" class="button" target="_blank" rel="noopener noreferrer">Resources for Managing Research Data</a>
+
+<a href="https://library.si.edu/research" class="button" target="_blank" rel="noopener noreferrer">Smithsonian Library Research Tools</a>
+
+
+Or visit our Frequently Asked Questions Page 
+
+<a href="/faq/" class="button" target= "_blank" rel="nooperner noreferrer">Frequently Asked Questions</a>
 
 <br><br>
 <br><br>
