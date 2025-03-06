@@ -8,15 +8,15 @@ Our data repository uses ORCID (Open Researcher and Contributor ID) to create ac
 
 ## Create an ORCID (Open Research and Contributor ID)
 
-**If you already have an ORCID, please skip to [step 2](/register_to_submit/#create-a-stdp-account-using-orcid)**
+**If you already have an ORCID, please skip to [step 2](../register_to_submit/#create-a-stdp-account-using-orcid)**
 
-Certain ORCID setting are required to contribute data to the Smithsonian Tropical Research Data Repository. Fill out the necessary settings marked below with an * in addition to the fields required by ORCID.
+Certain ORCID setting are required to contribute data to the Smithsonian Tropical Research Data Repository. Fill out the necessary settings marked below with an <span style="color:red">*</span> in addition to the fields required by ORCID.
 
 1. Go to the ORCID registration page to sign up: <a href="https://orcid.org/register" target="_blank">ORCID Registration</a> (Figure 1)
 
-2. Enter a Family Name or Surname *
+2. Enter a Family Name or Surname <span style="color:red">*</span>
 
-3. Set your default visibility settings* to specify who can view your ORCID Record (Figure 2). You must either select:
+3. Set your default visibility settings<span style="color:red">*</span> to specify who can view your ORCID Record (Figure 2). You must either select:
    
     - Everyone, or
     - Trusted Parties
@@ -58,7 +58,7 @@ Starting an account with Smithsonian Research Data Repository is easy!
 
 2. You'll be directed to a sign in window (Figure 5). Use your ORCID credentials to sign into the data repository
 
-3. A permission pop-up from ORCID will appear. Select Authorize access* (Figure 6). This will update your list of trusted organizations and allow the Smithsonian Research Data Repository to view your ORCID Record
+3. A permission pop-up from ORCID will appear. Select Authorize access<span style="color:red">*</span> (Figure 6). This will update your list of trusted organizations and allow the Smithsonian Research Data Repository to view your ORCID Record
 
 Your Smithsonian Research Data Repository account will automatically be created.
 

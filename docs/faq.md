@@ -4,10 +4,10 @@
 In short, yes. The mission of the Smithsonian Tropical Data Portal is to help the international community preserve, share, and discover tropical data and other research products including protocols, code, reports, and presentations. We aim to help make past, current, and future tropical datasets accessible by providing resources for documentation, management, storage, and visualization of tropical research data. 
 
 ### How do I create an account with STDP to upload data?
-Check out our [User Registration](../register_to_submit/) help documentation to get started with uploads.
+Check out our [**User Registration**](../register_to_submit/) help documentation to get started with uploads.
 
 ### I'm having trouble logging in with my ORCID.
-If login is not working, please try one or all of our [login troubleshooting tips](login_troubleshooting/). Contact `WhiteA@si.edu` or `BrissetteL@si.edi` if problems persist.
+If login is not working, please try one or all of our [**login troubleshooting tips**](../login_troubleshooting/). Contact `WhiteA@si.edu` or `BrissetteL@si.edi` if problems persist.
 
 ### What is a Data Package?
 The Smithsonian Research Data Repository primarily archives data packages. Data packages are simply defined as a collection of related data and metadata files. Each data package should contain, when possible, all of the relevant data and metadata from a specific research project (or sub-project/project component). Depending on the size of a research project, multiple data packages may be associated with a single research project. 
@@ -18,7 +18,7 @@ For example, if a research project consists of field sampling at several distinc
 
 If your data has already been published in another repository, specialty or not, we still invite you to publish in the STDP. There are a few options that you may consider if you find youself in this situation (Figure 1)
 
-Publishing a dataset or its metadata in an additional repository—even if previously published—enhances data discoverability and longevity. As part of the DataOne federation, STDP adheres to FAIR principles, ensuring that your data is easily Findable through persistent identifiers, Accessible via standardized web services, Interoperable with common data formats, and Reusable with rich metadata. This additional archiving not only broadens the dataset’s reach but also reinforces data integrity, promotes reproducibility, and facilitates collaboration within the tropical scientific community.
+Publishing a dataset or its metadata in an additional repository — even if previously published — enhances data discoverability and longevity. As part of the DataOne federation, STDP adheres to FAIR principles, ensuring that your data is easily Findable through persistent identifiers, Accessible via standardized web services, Interoperable with common data formats, and Reusable with rich metadata. This additional archiving not only broadens the dataset’s reach but also reinforces data integrity, promotes reproducibility, and facilitates collaboration within the tropical scientific community.
 
 
 <p align="center">
@@ -45,7 +45,7 @@ To see an example of a good dataset, visit these packages on STDP:
   
 * <a href="https://smithsonian.dataone.org/view/doi%3A10.60635%2FC3RG6V" target="_blank">Full Data Package Example 2</a>
   
-* <a href="https://smithsonian.dataone.org/view/urn%3Auuid%3A66a18bfe-0a6b-4ab0-9eb7-f1276cace9e5" target="_blank">Metadata Package Example</a>
+* <a href="https://smithsonian.dataone.org/view/urn%3Auuid%3Aac43b6aa-4c4a-47e9-9f5f-dac2caabc1e5" target="_blank">Metadata Package Example</a>
 
 If you would like to reference other datasets that have been reviewed and published in the STDP, visit https://smithsonian.dataone/data and explore the list of published datasets.
 
@@ -53,9 +53,9 @@ If you would like to reference other datasets that have been reviewed and publis
 
 Metadata are ultimately "data about data" - the contextual information needed to interpret a set of raw data observations. They provide meaning to data, and are critical when it comes to sharing, integrating, and analyzing data. Too often people collect data for projects and leave them undocumented for years or decades. These data, while potential of very high value, can become useless over time due to data entropy.
 
-At a high level, we are looking for metadata about what the dataset is about (e.g. title, description, keywords, funding), and author information. Check out [this page](/submit_online/) to preview the submission form to get a sense of the types of metadata a dataset needs. 
+At a high level, we suggest including metadata that describes the dataset (e.g. title, description, keywords, funding), aling with author information. Visit our  [Submit Online](../submit_online/) page to preview the submission form and see the required metadata fields. 
 
-To understand the Smithsonian Tropical Data Portal's expectations for metadata content, see our [Package Level Metadata Guide](/package_level_meta_reqs/) and [File Level Metadata Guide](/file_level_metadata/) for details.
+For for detailed guidelines for rich metadata, see our [ **Package Level Metadata Guide** ](../package_level_meta_reqs/) and [ **File Level Metadata Guide**](../file_level_metadata/) for details.
 
 *To help other users have a thorough understanding of your dataset, you might consider adding all of the metadata applicable to your project, as outlined below.* 
 
@@ -77,15 +77,15 @@ The goal of metadata is to document a project's output so that a reasonable scie
 
 ### What File Formats are acccepted?
 
-While STDP supports the upload of any data file format, sharing data can be greatly enhanced  if you use ubiquitous, easy-to-read formats. For instance, while Microsoft Excel files are commonplace, it's better to export these spreadsheets to Comma Separated Values (CSV) text files, which can be read on any computer without having Microsoft products installed.
+While STDP supports the upload of any data file format, sharing data can be greatly enhanced  if you use ubiquitous, easy-to-read formats. For instance, while Microsoft Excel files are commonplace, it's better to export these spreadsheets to Comma Separated Values (CSV), or tab separated value text files, which can be read on any computer without having Microsoft products installed.
 
 For image files, use common formats like PNG, JPEG, TIFF, etc. Most all browsers can handle these. If you use specialized software to create your data, try to save you data in well-known formats. For instance, GIS data can be exported to ESRI shapefiles, and data created in Matlab or other matrix-based programs can be exported as NetCDF (an open binary format).
 
 ### What happens after I "Save Dataset"?
-The dataset will be entered into the STDP system, and will only be visible to you, and those that you share the data package with, privately until you [Publish](/submit_online/#publication_options/) the data. You can continue to Edit the record after you submit.
+The dataset will be entered into the STDP system, and will only be visible to you, and those that you share the data package with, privately until you [**Publish**](../submit_online/#publication_options/) the data. You can continue to Edit the record after you submit.
 
 ### What are my data package publication options?
-Please review the [publication options](/submit_online/#publication-options) to make your new or previously existing dataset(s) and/or metadata publications available through the Smithsonian Tropical Data Portal. If you have any questions regarding the process, please feel free to reach out to `BrissetteL@si.edu`
+Please review the [**publication options**](../submit_online/#publication-options) to make your new or previously existing dataset(s) and/or metadata publications available through the Smithsonian Tropical Data Portal. If you have any questions regarding the process, please feel free to reach out to `BrissetteL@si.edu`
 
 ### What if my data upload is failing?
 Uploading large amounts of data can be really difficult on home internet connections. We recommend taking the following steps: 
