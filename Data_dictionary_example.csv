@@ -1,0 +1,17 @@
+﻿Column Name,Definition,Units,Data Type,Categories/Values,NA Meaning (Missing Value Indicator)
+AcceptedName,"Scientific name of the plant species, verified by TNRS",N/A,String,N/A,NA: Species name not recorded
+Species4,Four-letter code representing the species,N/A,String,N/A,NA: Species code not recorded
+Species6,Six-letter code representing the species,N/A,String,N/A,NA: Species code not recorded
+SampleID,Unique identifier for each sample.,N/A,Numeric,N/A,NA: Sample ID not recorded
+SampleType,Type of plant organ sampled,N/A,Unordered Category,"Leaf, Bark, Fruit, Flower, Seed",NA: Sample type not recorded
+SampleState,The developmental state of the sample,N/A,Unordered Category,"Mature, Immature, Senescent",NA: Measurement type not recorded
+MeasurementType,Type of measurement,N/A,Unordered Category,"contact, near-contact, leaf-clip",NA: View type not recorded
+ViewType,View type of the sample,N/A,Unordered Category,"adaxial, abaxial, interior, exterior, aril, capsule, single, stacked, pericarp seed, wing",NA: View type not recorded
+SubSampleWhich,Number of subsample,Count,Numeric,N/A,NA: Subsample number not recorded
+Horizontal Accuracy (m),The horizontal accuracy of the GPS measurement (3.535 m - 80.793 m),Meters,Numeric,N/A,NA: GPS accuracy not recorded
+Latitude,Latitude coordinate of the sample collection location up to 6 decimal places,Decimal Degrees,Numeric,N/A,NA: Latitude not recorded
+Longitude,Longitude coordinate of the sample collection location up to 6 decimal places,Decimal Degrees,Numeric,N/A,NA: Longitude not recorded
+Altitude,Altitude of the sample collection location (32.77 m - 211.19 m),Meters,Numeric,N/A,NA: Altitude not recorded
+SampleDate,The date (YYYY/MM/DD) on which the sample was collected.,YYYY/MM/DD,Date,N/A,NA: Sample date not recorded
+350-2500,Reflectance values measured at each wavelength in nanometers. Columns are named after the corresponding wavelength.,N/A,Numeric,N/A,NA: Reflectance value not measured
+,,,,,
