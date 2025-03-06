@@ -36,8 +36,8 @@ After the file has been uploaded, users can "Describe" their data (Figure 1).
 
 <p align="center">
   <figure>
-    <a href="/images/describe_dataset_button.png">
-      <img src="/images/describe_dataset_button.png" alt="Figure 1. Describe Dataset Attributes in Portal">
+    <a href="../images/Describe_dataset_button.png">
+      <img src="../images/Describe_dataset_button.png" alt="Figure 1. Describe Dataset Attributes in Portal">
     </a>
     <figcaption align="center" style="font-size: 0.9em;">Figure 1. Describe Dataset Attributes in Portal</figcaption>
   </figure>
@@ -90,12 +90,12 @@ Once the column(s) are listed, you can now add the attribute level details and e
 #### <strong>Category <span style="color:red">*</span></strong> (Figure 6)
     
 * Ordered or Unordered Category (specify possible values<span style="color:red">*</span>) (Figure 7)
-* Numeric (specify the unit<span style="color:red">*</span>) (Figure 8)
-* Date-time (specify the date-time format<span style="color:red">*</span>) (Figure 8)
-* Missing Value Codes (if applicable, specify the code used and its definition) (Figure 9)
+* <p><a href="#figure7">Numeric</a></p>(specify the unit<span style="color:red">*</span>) (Figure 8)
+* <p><a href="#figure8">Date-time</a></p> (specify the date-time format<span style="color:red">*</span>) (Figure 8)
+* <p><a href="#figure9">Missing Value Codes</a></p> (if applicable, specify the code used and its definition) (Figure 9)
 
 <p align="center">
-  <figure style="text-align: center; width: 100%;">
+  <figure id="figure6" style="text-align: center; width: 100%;">
     <a href="../images/category.png">
       <img src="../images/category.png" alt="Figure 6: Define the category type for your variable." style="width: 100%;">
     </a>
@@ -104,7 +104,7 @@ Once the column(s) are listed, you can now add the attribute level details and e
 </p>
 
 <p align="center">
-  <figure style="text-align: center; width: 100%;">
+  <figure id="figure7" style="text-align: center; width: 100%;">
     <a href="../images/unordered_cat_list.png">
       <img src="../images/unordered_cat_list.png" alt="Figure 7: Possible Values for Unordered Categories." style="width: 100%;">
     </a>
@@ -113,7 +113,7 @@ Once the column(s) are listed, you can now add the attribute level details and e
 </p>
 
 <p align="center">
-  <figure style="text-align: center; width: 100%;">
+  <figure id= "figure8" style="text-align: center; width: 100%;">
     <a href="../images/datetime.png">
       <img src="../images/datetime.png" alt="Figure 8: Date-Time Format" style="width: 100%;">
     </a>
@@ -122,7 +122,7 @@ Once the column(s) are listed, you can now add the attribute level details and e
 </p>
 
 <p align="center">
-  <figure style="text-align: center; width: 100%;">
+  <figure id= "figure9" style="text-align: center; width: 100%;">
     <a href="../images/missing_values.png">
       <img src="../images/missing_values.png" alt="Figure 9: Define Missing Value indictor and explanation" style="width: 100%;">
     </a>

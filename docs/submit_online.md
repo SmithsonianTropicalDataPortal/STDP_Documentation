@@ -268,7 +268,7 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
 ### More Information 
 
 * Regardless of which option above you choose, all datasets should have **complete metadata on STDP**. Metadata can be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form. Feel free to explore our [**File Level Metadata Guidelines**](../file_level_metadata/) for more details, walk-throughs, and templates.   
-* Datasets published under [option 2](/submit_online/#option-2-publish-with-urnuuid) **may or may not have data files attached**, depending on your use case. 
+* Datasets published under [option 2](/submit_online/#option-2-publish-with-urnuuid) **may or may not have data files attached**, depending on your use case. (Figure 19)
   * *For example, external links from data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
 
 ## Instructions to Edit an Existing Dataset
