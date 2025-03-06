@@ -23,8 +23,8 @@ Publishing a dataset or its metadata in an additional repository—even if previ
 
 <p align="center">
   <figure>
-    <a href="./images/previously_published_flowchart.png">
-      <img src="./images/previously_published_flowchart.png" alt="Options for placing previously published datasets in STDP">
+    <a href="../images/previously_published_flowchart.png">
+      <img src="../images/previously_published_flowchart.png" alt="Options for placing previously published datasets in STDP">
     </a>
     <figcaption align="center" style="font-size: 0.9em;">Figure 1. Options for placing previously published datasets in STDP</figcaption>
   </figure>
