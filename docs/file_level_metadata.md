@@ -28,7 +28,7 @@ For each applicable column of each table, please provide:
 * a category type
 * units of measurement, if applicable 
 
-#### Our web portal offers users the option to notate metadata in a point and click fashion. 
+**Our web portal offers users the option to notate metadata in a point and click fashion.** 
 
 After the file has been uploaded, users can "Describe" their data (Figure 1). 
 
@@ -61,43 +61,99 @@ This will open a pop-up where the user can provide a brief description of the fi
   </figure>
 </p>
 
-Once the column(s) are listed, you can now add the attribute level details and edit any fields that may have auto-imported incorrectly. Those with red asterisks<span style="color:red">*</span> are required fields.
+Once the column(s) are listed, you can now add the attribute level details and edit any fields that may have auto-imported incorrectly. Those with red asterisks<span style="color:red">*</span> are required fields. (Figure 4)
 
-* <strong>Attribute Name <span style="color:red">*</span></strong>
-* **Attribute Label**
-* <strong>Definition <span style="color:red">*</span></strong>
-* <strong>Category <span style="color:red">*</span></strong>
-     * Ordered or Unordered Category (specify possible values<span style="color:red">*</span>) 
-     * Numeric (specify the unit<span style="color:red">*</span>)
-     * Date-time (specify the date-time format<span style="color:red">*</span>)
-     * Missing Value Codes (if applicable, specify the code used and its definition)
+#### <strong>Attribute Name <span style="color:red">*</span></strong> (Figure 4)
+<p align="center">
+  <figure style="text-align: center; width: 100%;">
+    <a href="../images/auto_fill.png">
+      <img src="../images/auto_fill.png" alt="Figure 4: Review the auto-filled Attribute Name information." style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 4: Review the auto-filled Attribute Name information.</figcaption>
+  </figure>
+</p>
+
+#### **Attribute Label** and <strong>Definition of Variable <span style="color:red">*</span></strong> (Figure 5)
+
+
+<p align="center">
+  <figure style="text-align: center; width: 100%;">
+    <a href="../images/label_definition.png">
+      <img src="../images/label_definition.png" alt="Figure 5: Define optional Attribute Label and Required brief definition of the variable." style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 5: Define optional Attribute Label and Required brief Definition of the variable.</figcaption>
+  </figure>
+</p>
+
+#### <strong>Category <span style="color:red">*</span></strong> (Figure 6)
+    
+* Ordered or Unordered Category (specify possible values<span style="color:red">*</span>) (Figure 7)
+* Numeric (specify the unit<span style="color:red">*</span>) (Figure 8)
+* Date-time (specify the date-time format<span style="color:red">*</span>) (Figure 8)
+* Missing Value Codes (if applicable, specify the code used and its definition) (Figure 9)
+
+<p align="center">
+  <figure style="text-align: center; width: 100%;">
+    <a href="../images/category.png">
+      <img src="../images/category.png" alt="Figure 6: Define the category type for your variable." style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 6: Define the category type for your variable.</figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="text-align: center; width: 100%;">
+    <a href="../images/unordered_cat_list.png">
+      <img src="../images/unordered_cat_list.png" alt="Figure 7: Possible Values for Unordered Categories." style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 7: Possible Values for Unordered or Ordered Categories.</figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="text-align: center; width: 100%;">
+    <a href="../images/datetime.png">
+      <img src="../images/datetime.png" alt="Figure 8: Date-Time Format" style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 8: Date-time Format.</figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="text-align: center; width: 100%;">
+    <a href="../images/missing_values.png">
+      <img src="../images/missing_values.png" alt="Figure 9: Define Missing Value indictor and explanation" style="width: 100%;">
+    </a>
+    <figcaption style="font-size: 0.9em;">Figure 9: Define Missing Value indictor and explanation.</figcaption>
+  </figure>
+</p>
 
 After you have finished describing your dataset, you can select the "Done" button in the bottom left corner. You should receive a green checkmark, indicating you have completed all required fields (Figure 4). If you get a red exclamation mark, this indicates that you may have missed a field and need to return to complete the descriptions (Figures 5 and 6). 
 
 <p align="center">
   <figure style="text-align: center; width: 100%;">
     <a href="../images/Successfully_described.png">
-      <img src="../images/Successfully_described.png" alt="Figure 4: A green check mark indicates that all required fields have been completed." style="width: 50%;">
+      <img src="../images/Successfully_described.png" alt="Figure 10: A green check mark indicates that all required fields have been completed." style="width: 50%;">
     </a>
-    <figcaption style="font-size: 0.9em;">Figure 4: A green check mark indicates that all required fields have been completed.</figcaption>
+    <figcaption style="font-size: 0.9em;">Figure 10: A green check mark indicates that all required fields have been completed.</figcaption>
   </figure>
 </p>
 
 <p align="center">
   <figure style="text-align: center; width: 100%;">
     <a href="../images/further_info_needed.png">
-      <img src="../images/further_info_needed.png" alt="Figure 5: A red exclamation point indicates that one or more required fields have been missed." style="width: 50%;">
+      <img src="../images/further_info_needed.png" alt="Figure 11: A red exclamation point indicates that one or more required fields have been missed." style="width: 50%;">
     </a>
-    <figcaption style="font-size: 0.9em;">Figure 5: A red exclamation point indicates that one or more required fields have been missed.</figcaption>
+    <figcaption style="font-size: 0.9em;">Figure 11: A red exclamation point indicates that one or more required fields have been missed.</figcaption>
   </figure>
 </p>
 
 <p align="center">
-  <figure style="text-align: center; width: 70%;">
+  <figure style="text-align: center; width: 100%;">
     <a href="../images/more_info.png">
-      <img src="../images/more_info.png" alt="Figure 6: Red exclamation points indicate which columns need attention." style="width: 100%;">
+      <img src="../images/more_info.png" alt="Figure 12: Red exclamation points indicate which columns need attention." style="width: 100%;">
     </a>
-    <figcaption style="font-size: 0.9em;">Figure 6: Red exclamation points indicate which columns need attention.</figcaption>
+    <figcaption style="font-size: 0.9em;">Figure 12: Red exclamation points indicate which columns need attention.</figcaption>
   </figure>
 </p>
 
