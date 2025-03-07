@@ -6,9 +6,6 @@ In short, yes. The mission of the Smithsonian Tropical Data Portal is to help th
 ### **How do I create an account with STDP to upload data?**
 Check out our [**User Registration**](../register_to_submit/) help documentation to get started with uploads.
 
-### **I'm having trouble logging in with my ORCID.**
-If login is not working, please try one or all of our [**login troubleshooting tips**](../login_troubleshooting/). Contact `WhiteA@si.edu` or `BrissetteL@si.edi` if problems persist.
-
 ### **What is a Data Package?**
 The Smithsonian Research Data Repository primarily archives data packages. Data packages are simply defined as a collection of related data and metadata files. Each data package should contain, when possible, all of the relevant data and metadata from a specific research project (or sub-project/project component). Depending on the size of a research project, multiple data packages may be associated with a single research project. 
 
@@ -65,7 +62,7 @@ Adding a collaborator to your project is easy!
   </figure>
 </p>
 
-5. Save Dataset. Your collaborator should now have access to your private dataset. You can provide the direct URL to the dataset or they can ssearch for the title of your dataset in the main search bar of the data portal. 
+5. Save Dataset. Your collaborator should now have access to your private dataset. You can provide the direct URL to the dataset or they can search for the title of your dataset in the main search bar of the data portal. 
 
 
 ## Search FAQ
