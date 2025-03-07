@@ -12,6 +12,12 @@ This comprehensive tutorial will guide you through the process of creating and s
 
 These instructions assume you have been given access to upload data by a Smithsonian Data Repository admin. If you are logging in for the first time, <a href="../register_to_submit/" target="_blank">see documentation on how to set up your account to get access to upload.</a>
 
+<div class="info-box">
+    <span class="info-icon">ℹ️</span> 
+    <strong>Working Offline?</strong> <br>
+    STDP's <a href="https://docs.google.com/document/d/18liygkLnxVilmt9b6kGNggtjX4Ppn3sImDp2sTLYpAM/edit?usp=sharing"  target="_blank">Offline Package Level Metadata Template</a> can be used to prepare your dataset metadata prior to submission. We recommend using the template to collaborate with your team members in Google Docs, then copying and pasting the completed fields into the <a href="https://smithsonian.dataone.org/submit" target="_blank">STDP Dataset Submission form</a> when you are ready to create your dataset.
+</div>
+
 ## Access the Data Submission Web Form
 
 **Click the link to the data submission web form: <a href="https://smithsonian.dataone.org/submit" target="_blank">https://smithsonian.dataone.org</a>**
@@ -37,7 +43,7 @@ You will then be prompted to sign in with your ORCID credentials. (Figure 2)
   </figure>
 </p>
 
-Once you click on the "Sign in with ORCID" button, the system will redirect you to a login screen (Figure 3). You can also link your ORCID with your Institutional account if you prefer to login that way. If you do not have an ORCID account, you can create one at: <a href="https://orcid.org/register" target="_blank">ORCID Registration</a>, or visit our page on Creating an ORCID.
+Once you click on the "Sign in with ORCID" button, the system will redirect you to a login screen (Figure 3). You can also link your ORCID with your Institutional account if you prefer to login that way. If you do not have an ORCID account, you can create one at: <a href="https://orcid.org/register" target="_blank">ORCID Registration</a>, or visit our page on <a href="../register_to_submit/" target="_blank">Creating an ORCID</a>.
 
 <p align="center">
   <figure>
@@ -240,7 +246,7 @@ The citation will be formatted as follows:
 </p>
 
 ### Have a Dataset that is published elsewhere but want it represented in the STDP? 
-If this dataset is essentially a duplicate of a version stored elsewhere, provide the ID of the original dataset in the [Canonical Dataset](../package_level_meta_reqs/#canonical-dataset) box in the Overview Section. This must be a DOI or URL. Sometimes datasets in the Smithsonian Tropical Data Portal are essentially duplicates of an external dataset that was originally published elsewhere. For example, you may want to preserve a copy of a dataset in STDP for posterity or to ensure that the data remains accessible. In such cases, it is more approprite to cite the original dataset rather than the copy. The canonical version is displayed prominently in a banner on the dataset landing page, making it easy for users to identify the original dataset and cite it correctly (Figure 16). This avoids issues with misrepresentation and citation confusion. 
+If this dataset is essentially a duplicate of a version stored elsewhere, provide the ID of the original dataset in the <a href="../package_level_meta_reqs/#canonical-dataset" target="_blank">Canonical Dataset</a> box in the Overview Section. This must be a DOI or URL. Sometimes datasets in the Smithsonian Tropical Data Portal are essentially duplicates of an external dataset that was originally published elsewhere. For example, you may want to preserve a copy of a dataset in STDP for posterity or to ensure that the data remains accessible. In such cases, it is more approprite to cite the original dataset rather than the copy. The canonical version is displayed prominently in a banner on the dataset landing page, making it easy for users to identify the original dataset and cite it correctly (Figure 16). This avoids issues with misrepresentation and citation confusion. 
 
 <p align="center">
   <figure>
@@ -254,7 +260,7 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
 
 * Not assigning a DOI may be a good option if the dataset is already stored in a scientifically appropriate repository (e.g., NCBI, GBIF) or was published in another suitable repository before this one was active (e.g., Zenodo, Dryad). However, you can still contribute to the STDP by ensuring that metadata describing your data is stored there. (Figure 17)
 * *Publishing elsewhere published data will generally enhance the discoverability of your dataset by making it searchable on STDP, along with other Tropical project data stored on STDP.* 
-* You should notate any alternative identifiers (DOIs or URLs) in the [Existing or Alternative Identifiers](../package_level_meta_reqs/#existing-doi-and-alternative-identifiers) box or [Canonical Dataset](../package_level_meta_reqs/#canonical-dataset) in the Overview Section.
+* You should notate any alternative identifiers (DOIs or URLs) in the  <a href="../package_level_meta_reqs/#existing-doi-and-alternative-identifiers" target="_blank">Existing or Alternative Identifiers</a> box or  <a href="../package_level_meta_reqs/#canonical-dataset" target="_blank">Canonical Dataset</a> in the Overview Section.
 
 <p align="center">
   <figure>
@@ -267,8 +273,8 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
 
 ### More Information 
 
-* Regardless of which option above you choose, all datasets should have **complete metadata on STDP**. Metadata can be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form. Feel free to explore our [**File Level Metadata Guidelines**](../file_level_metadata/) for more details, walk-throughs, and templates.   
-* Datasets published under [option 2](../submit_online/#option-2-publish-with-urnuuid) **may or may not have data files attached**, depending on your use case. (Figure 19)
+* Regardless of which option above you choose, all datasets should have **complete metadata on STDP**. Metadata can be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form. Feel free to explore our <a href="../file_level_metadata/" target="_blank"><strong>File Level Metadata Guidelines</strong></a> for more details, walk-throughs, and templates.   
+* Datasets published under <a href="../submit_online/#option-2-publish-with-urnuuid" target="_blank">option 2</a> **may or may not have data files attached**, depending on your use case. (Figure 19)
   * *For example, external links from data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
 
 ## Instructions to Edit an Existing Dataset

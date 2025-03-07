@@ -4,7 +4,7 @@
 In short, yes. The mission of the Smithsonian Tropical Data Portal is to help the international community preserve, share, and discover tropical data and other research products including protocols, code, reports, and presentations. We aim to help make past, current, and future tropical datasets accessible by providing resources for documentation, management, storage, and visualization of tropical research data. 
 
 ### **How do I create an account with STDP to upload data?**
-Check out our [**User Registration**](../register_to_submit/) help documentation to get started with uploads.
+Check out our <a href="../register_to_submit/" target="_blank"><strong>User Registration</strong></a> help documentation to get started with uploads.
 
 ### **What is a Data Package?**
 The Smithsonian Research Data Repository primarily archives data packages. Data packages are simply defined as a collection of related data and metadata files. Each data package should contain, when possible, all of the relevant data and metadata from a specific research project (or sub-project/project component). Depending on the size of a research project, multiple data packages may be associated with a single research project. 
@@ -67,7 +67,7 @@ Adding a collaborator to your project is easy!
 
 ## Search FAQ
 ### **Why can’t I see all the Smithsonian Figshare historical data here?**
-STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a> to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `WhiteA@si.edu`.
+STDP is working on the transition of historical tropical data from <a href="https://smithsonian.figshare.com" target="_blank">Smithsonian Figshare</a> to the STDP. Smithsonian Figshare is still active and while the current plan is to have all newly published tropical research data avaiable through the STDP, the transition will be a gradual one. If you have any questions about the Smithsonian Research Data Repository, the Smithsonian Tropical Data Portal,  or the data transition, please contact `SI-Dataone@si.edu`.
 
 ### **Why can’t I see the data I uploaded in the dataset listing?**
 Check if you are logged in. If you haven’t Published your dataset, then it will only be visible, privately to you, once you are logged in.
@@ -88,9 +88,9 @@ If you would like to reference other datasets that have been reviewed and publis
 
 Metadata are ultimately "data about data" - the contextual information needed to interpret a set of raw data observations. They provide meaning to data, and are critical when it comes to sharing, integrating, and analyzing data. Too often people collect data for projects and leave them undocumented for years or decades. These data, while potential of very high value, can become useless over time due to data entropy.
 
-At a high level, we suggest including metadata that describes the dataset (e.g. title, description, keywords, funding), along with author information. Visit our  [Submit Online](../submit_online/) page to preview the submission form and see the required metadata fields. 
+At a high level, we suggest including metadata that describes the dataset (e.g. title, description, keywords, funding), along with author information. Visit our <a href="../submit_online//" target="_blank"><strong>Submit Online</strong></a> page to preview the submission form and see the required metadata fields. 
 
-For for detailed guidelines for rich metadata, see our [ **Package Level Metadata Guide** ](../package_level_meta_reqs/) and [ **File Level Metadata Guide**](../file_level_metadata/) for details.
+For for detailed guidelines for rich metadata, see our <a href="../package_level_meta_reqs/" target="_blank"><strong>Package Level Metadata Guide</strong></a> and <a href="../file_level_metadata" target="_blank"><strong>File Level Metadata Guide</strong></a> for details.
 
 *To help other users have a thorough understanding of your dataset, you might consider adding all of the metadata applicable to your project, as outlined below.* 
 
@@ -121,6 +121,11 @@ While STDP supports the upload of any data file format, sharing data can be grea
 
 For image files, use common formats like PNG, JPEG, TIFF, etc. Most all browsers can handle these. If you use specialized software to create your data, try to save you data in well-known formats. For instance, GIS data can be exported to ESRI shapefiles, and data created in Matlab or other matrix-based programs can be exported as NetCDF (an open binary format).
 
+### **I have a large (>10 GB or >1000-file) dataset, can STDP accept it?**
+ Yes! For this type of dataset upload, we advise users to first input all of their package level metadata in the web portal (visit our <a href="../submit_online//" target="_blank"><strong>Submit Online</strong></a> for details). 
+
+ Once the metadata is notated and you have your final dataset(s) ready for upload, please follow these instructions for <a href="https://smithsonian.dataone.org/portals/tropical/Globus" target="_blank"><strong>uploading large datasets with Globus</strong></a>. 
+
 ### **What happens after I "Save Dataset"?**
 The dataset will be entered into the STDP system, and will only be visible to you, and those that you share the data package with, privately until you <a href="../submit_online/#publication_options/" target="_blank" rel="noopener noreferrer">
     <strong>Publish</strong>
@@ -129,7 +134,7 @@ the data. You can continue to Edit the record after you submit.
 
 ### **What are my data package publication options?**
 Please review the <a href="../submit_online/#publication_options/" target="_blank" rel="noopener noreferrer">
-    <strong>publication options</strong></a> to make your new or previously existing dataset(s) and/or metadata publications available through the Smithsonian Tropical Data Portal. If you have any questions regarding the process, please feel free to reach out to `BrissetteL@si.edu`
+    <strong>publication options</strong></a> to make your new or previously existing dataset(s) and/or metadata publications available through the Smithsonian Tropical Data Portal. If you have any questions regarding the process, please feel free to reach out to `SI-Dataone@si.edu`
 
 ### **What if my data upload is failing?**
 Uploading large amounts of data can be really difficult on home internet connections. We recommend taking the following steps: 
