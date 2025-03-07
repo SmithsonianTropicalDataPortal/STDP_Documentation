@@ -1,6 +1,6 @@
 site_name: Smithsonian Tropical Data Portal Documentation
 docs_dir: docs
-site_url: https://legbrisse.github.io/STDP_Documentation/
+site_url: https://smithsoniantropicaldataportal.github.io/STDP_Documentation/
 theme:
   name: material
 nav:
