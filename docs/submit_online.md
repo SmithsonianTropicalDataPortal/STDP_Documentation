@@ -1,6 +1,6 @@
-# How to Submit Data with Online Form in the STDP
+# **How to Submit Data with Online Form in the STDP**
 
-This comprehensive tutorial will guide you through the process of creating and submitting a private dataset to the Smithsonian Tropical Research Data Repository.
+This comprehensive tutorial will guide you through the process of creating and submitting a dataset to the Smithsonian Tropical Data Portal.
 
 **Please ensure that there is no Protected information (PII or SPII) in your dataset.**
 
@@ -10,7 +10,7 @@ This comprehensive tutorial will guide you through the process of creating and s
 * Firefox
 * Note: You may experience some issues with Safari and Microsoft Edge.
 
-These instructions assume you have been given access to upload data by a Smithsonian Data Repository admin. If you are logging in for the first time, see documentation on how to set up your account to get access to upload.
+These instructions assume you have been given access to upload data by a Smithsonian Data Repository admin. If you are logging in for the first time, <a href="../register_to_submit/" target="_blank">see documentation on how to set up your account to get access to upload.</a>
 
 ## Access the Data Submission Web Form
 
@@ -65,7 +65,7 @@ Once you click on the "Sign in with ORCID" button, the system will redirect you 
   </figure>
 </p>
 
-#### To review the expectations for content in sections 1-5, refer to our [**Package Level Metadata Guide**](../package_level_meta_reqs/).
+#### To review the expectations for content in sections 1-5, refer to our <a href="../package_level_meta_reqs/" target="_blank">Package Level Metadata Guide</a>.
 
 
 ## Sections
@@ -134,7 +134,7 @@ When complete, hit the "Save Dataset" button at the bottom of your screen(Figure
   </figure>
 </p>
 
-When you save your dataset it will remain private.
+When you save your dataset it will remain **private**.
 
 ### View your submission
 
@@ -240,7 +240,7 @@ The citation will be formatted as follows:
 </p>
 
 ### Have a Dataset that is published elsewhere but want it represented in the STDP? 
-If this dataset is essentially a duplicate of a version stored elsewhere, provide the ID of the original dataset in the [Canonical Dataset](/package_level_meta_reqs/#canonical-dataset) box in the Overview Section. This must be a DOI or URL. Sometimes datasets in the Smithsonian Tropical Data Portal are essentially duplicates of an external dataset that was originally published elsewhere. For example, you may want to preserve a copy of a dataset in STDP for posterity or to ensure that the data remains accessible. In such cases, it is more approprite to cite the original dataset rather than the copy. The canonical version is displayed prominently in a banner on the dataset landing page, making it easy for users to identify the original dataset and cite it correctly (Figure 16). This avoids issues with misrepresentation and citation confusion. 
+If this dataset is essentially a duplicate of a version stored elsewhere, provide the ID of the original dataset in the [Canonical Dataset](../package_level_meta_reqs/#canonical-dataset) box in the Overview Section. This must be a DOI or URL. Sometimes datasets in the Smithsonian Tropical Data Portal are essentially duplicates of an external dataset that was originally published elsewhere. For example, you may want to preserve a copy of a dataset in STDP for posterity or to ensure that the data remains accessible. In such cases, it is more approprite to cite the original dataset rather than the copy. The canonical version is displayed prominently in a banner on the dataset landing page, making it easy for users to identify the original dataset and cite it correctly (Figure 16). This avoids issues with misrepresentation and citation confusion. 
 
 <p align="center">
   <figure>
@@ -254,7 +254,7 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
 
 * Not assigning a DOI may be a good option if the dataset is already stored in a scientifically appropriate repository (e.g., NCBI, GBIF) or was published in another suitable repository before this one was active (e.g., Zenodo, Dryad). However, you can still contribute to the STDP by ensuring that metadata describing your data is stored there. (Figure 17)
 * *Publishing elsewhere published data will generally enhance the discoverability of your dataset by making it searchable on STDP, along with other Tropical project data stored on STDP.* 
-* You should notate any alternative identifiers (DOIs or URLs) in the [Existing or Alternative Identifiers](/package_level_meta_reqs/#existing-doi-and-alternative-identifiers) box or [Canonical Dataset](/package_level_meta_reqs/#canonical-dataset) in the Overview Section.
+* You should notate any alternative identifiers (DOIs or URLs) in the [Existing or Alternative Identifiers](../package_level_meta_reqs/#existing-doi-and-alternative-identifiers) box or [Canonical Dataset](../package_level_meta_reqs/#canonical-dataset) in the Overview Section.
 
 <p align="center">
   <figure>
@@ -268,7 +268,7 @@ If this dataset is essentially a duplicate of a version stored elsewhere, provid
 ### More Information 
 
 * Regardless of which option above you choose, all datasets should have **complete metadata on STDP**. Metadata can be noted as either attached files such as a README, Data Dictionary, and/or Categorical Codebook, or directly input in the data portal web form. Feel free to explore our [**File Level Metadata Guidelines**](../file_level_metadata/) for more details, walk-throughs, and templates.   
-* Datasets published under [option 2](/submit_online/#option-2-publish-with-urnuuid) **may or may not have data files attached**, depending on your use case. (Figure 19)
+* Datasets published under [option 2](../submit_online/#option-2-publish-with-urnuuid) **may or may not have data files attached**, depending on your use case. (Figure 19)
   * *For example, external links from data services or repositories that provide long term storage and stewardship of the data will not be required to upload data files to STDP, only the metadata.*
 
 ## Instructions to Edit an Existing Dataset

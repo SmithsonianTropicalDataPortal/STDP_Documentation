@@ -1,4 +1,4 @@
-# Register to Submit Data
+# **Register to Submit Data**
 
 This page provides instructions for requesting approval to publish data on the Smithsonian Tropical Research Data Repository as a Smithsonian Tropical Research Institute data contributor.
 

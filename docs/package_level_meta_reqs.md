@@ -1,4 +1,4 @@
-# Metadata Requirements
+# **Metadata Requirements**
 
 This page provides an overview of the minimum metadata required for publication on Smithsonian Tropical Data Portal. These requirements are used by the Smithsonian Tropical Data Portal team to review datasets before approval for publication.
 
