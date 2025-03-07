@@ -1,11 +1,35 @@
+:root {
+    /* Primary color: Blue (dominant) */
+    --md-primary-fg-color: #0056b3;
+    /* Smithsonian Blue */
+    --md-primary-fg-color--light: #007bff;
+    /* Lighter variant */
+    --md-primary-fg-color--dark: #003f7f;
+    /* Darker variant */
+
+    /* Accent color: Dark Gold */
+    --md-accent-fg-color: #bfa600;
+    /* Smithsonian Gold */
+    --md-accent-fg-color--light: #d4af37;
+    /* Lighter gold */
+    --md-accent-fg-color--dark: #8f7b00;
+    /* Darker gold */
+
+    /* Link colors */
+    --md-typeset-a-color: #007bff;
+    /* Dark gold links */
+    --md-typeset-a-color--hover: #007bff;
+    /* Lighter gold on hover */
+}
+
 .button {
-    background-color: #e0d423;
+    background-color: #d4af37;
     color: white;
-    padding: 0.5rem 1rem;
+    padding: 0.25rem .5rem;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    border-radius: 0.25rem;
+    border-radius: 0.2rem;
     transition: background-color 0.3s ease;
     font-weight: bold;
 }
