@@ -122,7 +122,7 @@ While STDP supports the upload of any data file format, sharing data can be grea
 For image files, use common formats like PNG, JPEG, TIFF, etc. Most all browsers can handle these. If you use specialized software to create your data, try to save you data in well-known formats. For instance, GIS data can be exported to ESRI shapefiles, and data created in Matlab or other matrix-based programs can be exported as NetCDF (an open binary format).
 
 ### **I have a large (>10 GB or >1000-file) dataset, can STDP accept it?**
- Yes! For this type of dataset upload, we advise users to first input all of their package level metadata in the web portal (visit our <a href="../submit_online//" target="_blank"><strong>Submit Online</strong></a> for details). 
+ Yes! For this type of dataset upload, we advise users to first input all of their package level metadata in the web portal (visit our <a href="../submit_online/" target="_blank"><strong>Submit Online</strong></a> for details). 
 
  Once the metadata is notated and you have your final dataset(s) ready for upload, please follow these instructions for <a href="https://smithsonian.dataone.org/portals/tropical/Globus" target="_blank"><strong>uploading large datasets with Globus</strong></a>. 
 
