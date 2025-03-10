@@ -1,6 +1,6 @@
 # **Smithsonian Tropical Data Portal Documentation**
 
-This website serves as an in-depth guide to the Smithsonian Tropical Data Portal (STDP) and is home to all help deocumentation. 
+This website serves as an in-depth guide to the Smithsonian Tropical Data Portal (STDP) and is home to all help documentation. 
 
 Smithsonian Research Data Repository and Tropical Data Portal Support Email: `SI-Dataone@si.edu`
 
