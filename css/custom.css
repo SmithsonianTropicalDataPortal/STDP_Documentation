@@ -4,10 +4,10 @@
     /* Smithsonian Blue */
     --md-primary-fg-color--light: #009CDE;
     /* Lighter variant */
-    --md-primary-fg-color--dark: ##002554;
+    --md-primary-fg-color--dark: #002554;
     /* Darker variant */
 
-    /* Accent color: smithsonian primary yellow */
+    /* Accent color: smithsonian blue */
     --md-accent-fg-color: #009CDE;
 
 
