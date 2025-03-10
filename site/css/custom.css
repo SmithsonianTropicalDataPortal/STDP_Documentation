@@ -13,9 +13,8 @@
 
     /* Link colors */
     --md-typeset-a-color: #009CDE;
-    /* Dark gold links */
-    --md-typeset-a-color--hover: #009CDE;
-    /* Lighter gold on hover */
+    /* dark blue SI brand */
+    --md-typeset-a-color--hover: #165C7D;
 }
 
 .button {
