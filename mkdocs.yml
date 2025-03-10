@@ -2,6 +2,7 @@ site_name: Smithsonian Tropical Data Portal Documentation
 docs_dir: docs
 theme:
   name: material
+  logo: images/si-sun.png
 nav:
   - Home: index.md
   - Register to Submit: register_to_submit.md
