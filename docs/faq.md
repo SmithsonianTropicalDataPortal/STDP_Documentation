@@ -1,6 +1,6 @@
 # **Frequently Asked Questions**
 ## General Questions
-### **Will you take my data?**
+### **Will you accept my data?**
 In short, yes. The mission of the Smithsonian Tropical Data Portal is to help the international community preserve, share, and discover tropical data and other research products including protocols, code, reports, and presentations. We aim to help make past, current, and future tropical datasets accessible by providing resources for documentation, management, storage, and visualization of tropical research data. 
 
 ### **How do I create an account with STDP to upload data?**
