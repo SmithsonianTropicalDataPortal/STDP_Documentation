@@ -220,5 +220,5 @@ At the least, a categorical codebook should include:
     * <a href="../Data_dictionary_template.csv" download>Download Template</a>
     * <a href="../Data_dictionary_example.csv" download>Example Completed Data Dictionary</a>
 * Categoical Codebook
-    * <a href="../Categorical_Codebook_template.csv" download>Download Template</a>
-    * <a href="../Categorical_codebook_example.csv" download>Example Completed Categorical Codebook</a>
+    * <a href="../Categorical_codebook_template.csv" download>Download Template</a>
+    * <a href="../Categorical_Codebook_example.csv" download>Example Completed Categorical Codebook</a>
